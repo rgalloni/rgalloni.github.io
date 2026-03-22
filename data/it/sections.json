@@ -1,0 +1,53 @@
+[
+  {
+    "id": "chapter1",
+    "type": "chapter",
+    "title": "Turchia-Istanbul",
+    "children": [
+      "intro",
+      "day1",
+      "day2"
+    ],
+    "label": "Capitolo 1"
+  },
+  {
+    "id": "intro",
+    "type": "intro",
+    "label": "Introduzione",
+    "page": "index_mobile.it.html",
+    "tabs": [
+      "context",
+      "bookings"
+    ]
+  },
+  {
+    "id": "day1",
+    "type": "day",
+    "date": "2026-04-03",
+    "label": "Giorno 1",
+    "date_label": "Venerdì 3 aprile",
+    "title": "L'Impero, l'Acqua e il Relax",
+    "page": "day1_mobile.it.html",
+    "tabs": [
+      "itinerary",
+      "context",
+      "activities",
+      "bookings"
+    ]
+  },
+  {
+    "id": "day2",
+    "type": "day",
+    "date": "2026-04-04",
+    "label": "Giorno 2",
+    "date_label": "Sabato 4 aprile",
+    "title": "Splendore ottomano, reliquie e città moderna",
+    "page": "day2_mobile.it.html",
+    "tabs": [
+      "itinerary",
+      "context",
+      "activities",
+      "bookings"
+    ]
+  }
+]

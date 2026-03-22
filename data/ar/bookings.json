@@ -1,0 +1,93 @@
+[
+  {
+    "id": "intro-booking-1",
+    "section_id": "intro",
+    "booking_type": "flight",
+    "title": "رحلة روجيرو - وصول IST",
+    "time": "Fri, 03:40",
+    "note": "احتفظ بتأكيد الحجز وجواز السفر جاهزًا للهجرة."
+  },
+  {
+    "id": "intro-booking-2",
+    "section_id": "intro",
+    "booking_type": "flight",
+    "title": "رحلة أيوب - وصول SAW",
+    "time": "Fri, 06:45",
+    "note": "خطط لتسجيل الوصول عبر تطبيق WhatsApp مباشرة بعد الهبوط."
+  },
+  {
+    "id": "intro-booking-3",
+    "section_id": "intro",
+    "booking_type": "hotel",
+    "title": "حجز بيرا أبارت",
+    "location": "السلطان أحمد / الفاتح",
+    "time": "Sultanahmet / Fatih",
+    "note": "تسليم الأمتعة في الصباح، وتسجيل الوصول القياسي في وقت لاحق من اليوم."
+  },
+  {
+    "id": "day1-booking-1",
+    "section_id": "day1",
+    "booking_type": "activity",
+    "title": "دخول صهريج البازيليك",
+    "time": "14:30 slot",
+    "note": "استخدم التذكرة المحجوزة مسبقًا وتصل قبل 10-15 دقيقة."
+  },
+  {
+    "id": "day1-booking-2",
+    "section_id": "day1",
+    "booking_type": "activity",
+    "title": "عبّارة البوسفور/ رحلة بحرية",
+    "time": "Around 18:00",
+    "note": "اشترِ في الموقع في أمينونو؛ احتفظ ببعض النقود بالليرة التركية."
+  },
+  {
+    "id": "day1-booking-3",
+    "section_id": "day1",
+    "booking_type": "flight",
+    "event_date": "2026-04-03",
+    "title": "مطار الوصول (IST + SAW)",
+    "time": "03:40 / 06:45",
+    "note": "نلتقي بعد النقل من المطار ونواصل معًا إلى منطقة الفندق."
+  },
+  {
+    "id": "day1-booking-4",
+    "section_id": "day1",
+    "booking_type": "hotel",
+    "event_date": "2026-04-03",
+    "overview_hotel_action": "checkin",
+    "title": "بيرا أبارت ستاي",
+    "location": "السلطان أحمد / الفاتح",
+    "time": "Check-in and rest in the afternoon",
+    "note": "القاعدة الرئيسية لأنشطة اليوم الأول واليوم الثاني."
+  },
+  {
+    "id": "day2-booking-1",
+    "section_id": "day2",
+    "booking_type": "activity",
+    "title": "تذاكر قصر توبكابي",
+    "time": "Morning",
+    "note": "الوصول إلى وقت الافتتاح لتجنب الطوابير الطويلة."
+  },
+  {
+    "id": "day2-booking-2",
+    "section_id": "day2",
+    "booking_type": "flight",
+    "event_date": "2026-04-05",
+    "show_in_daily_overview": false,
+    "title": "رحلة العودة TK68",
+    "time": "01:55 AM",
+    "note": "غادر إلى IST حوالي الساعة 21:30 للانتقال دون أي ضغوط."
+  },
+  {
+    "id": "day2-booking-3",
+    "section_id": "day2",
+    "booking_type": "hotel",
+    "event_date": "2026-04-04",
+    "overview_hotel_action": "same",
+    "show_in_daily_overview": false,
+    "title": "بيرا أبارت (نقل الأمتعة)",
+    "location": "السلطان أحمد / الفاتح",
+    "time": "Around 21:00",
+    "note": "اجمع الحقائب قبل التوجه إلى مطار IST."
+  }
+]

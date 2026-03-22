@@ -1,0 +1,53 @@
+[
+  {
+    "id": "chapter1",
+    "type": "chapter",
+    "title": "Turkey — Istanbul",
+    "children": [
+      "intro",
+      "day1",
+      "day2"
+    ],
+    "label": "Chapter 1"
+  },
+  {
+    "id": "intro",
+    "type": "intro",
+    "label": "Intro",
+    "page": "index_mobile.html",
+    "tabs": [
+      "context",
+      "bookings"
+    ]
+  },
+  {
+    "id": "day1",
+    "type": "day",
+    "date": "2026-04-03",
+    "label": "Day 1",
+    "date_label": "Friday, April 3rd",
+    "title": "The Empire, the Water, and Relaxation",
+    "page": "day1_mobile.html",
+    "tabs": [
+      "itinerary",
+      "context",
+      "activities",
+      "bookings"
+    ]
+  },
+  {
+    "id": "day2",
+    "type": "day",
+    "date": "2026-04-04",
+    "label": "Day 2",
+    "date_label": "Saturday, April 4th",
+    "title": "Ottoman Splendor, Relics, and the Modern City",
+    "page": "day2_mobile.html",
+    "tabs": [
+      "itinerary",
+      "context",
+      "activities",
+      "bookings"
+    ]
+  }
+]

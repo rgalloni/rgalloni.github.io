@@ -1,0 +1,58 @@
+name: Deploy Guide To GitHub Pages
+
+on:
+  push:
+    branches:
+      - main
+      - master
+    paths:
+      - 'itinerary/**'
+      - 'scripts/build_mobile_spa.py'
+      - '.github/workflows/deploy-pages.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Generate auth config from secret PIN
+        if: ${{ secrets.PWA_PIN != '' }}
+        env:
+          PWA_PIN: ${{ secrets.PWA_PIN }}
+        run: python scripts/set_pwa_pin.py --pin-env PWA_PIN
+
+      - name: Build SPA PWA
+        run: python scripts/build_mobile_spa.py
+
+      - name: Upload Pages Artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: itinerary
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy To GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

@@ -1,0 +1,93 @@
+[
+  {
+    "id": "intro-booking-1",
+    "section_id": "intro",
+    "booking_type": "flight",
+    "title": "Ruggero Flight - IST Arrival",
+    "time": "Fri, 03:40",
+    "note": "Keep booking confirmation and passport ready for immigration."
+  },
+  {
+    "id": "intro-booking-2",
+    "section_id": "intro",
+    "booking_type": "flight",
+    "title": "Ayoub Flight - SAW Arrival",
+    "time": "Fri, 06:45",
+    "note": "Plan WhatsApp check-in right after landing."
+  },
+  {
+    "id": "intro-booking-3",
+    "section_id": "intro",
+    "booking_type": "hotel",
+    "title": "Pera Apart Reservation",
+    "location": "Sultanahmet / Fatih",
+    "time": "Sultanahmet / Fatih",
+    "note": "Luggage drop in the morning, standard check-in later in the day."
+  },
+  {
+    "id": "day1-booking-1",
+    "section_id": "day1",
+    "booking_type": "activity",
+    "title": "Basilica Cistern Entry",
+    "time": "14:30 slot",
+    "note": "Use prebooked ticket and arrive 10-15 minutes earlier."
+  },
+  {
+    "id": "day1-booking-2",
+    "section_id": "day1",
+    "booking_type": "activity",
+    "title": "Bosphorus Ferry / Cruise",
+    "time": "Around 18:00",
+    "note": "Buy on site at Eminonu; keep some cash in TRY."
+  },
+  {
+    "id": "day1-booking-3",
+    "section_id": "day1",
+    "booking_type": "flight",
+    "event_date": "2026-04-03",
+    "title": "Airport Arrivals (IST + SAW)",
+    "time": "03:40 / 06:45",
+    "note": "Meet after airport transfer and continue together to the hotel area."
+  },
+  {
+    "id": "day1-booking-4",
+    "section_id": "day1",
+    "booking_type": "hotel",
+    "event_date": "2026-04-03",
+    "overview_hotel_action": "checkin",
+    "title": "Pera Apart Stay",
+    "location": "Sultanahmet / Fatih",
+    "time": "Check-in and rest in the afternoon",
+    "note": "Main base for Day 1 and Day 2 activities."
+  },
+  {
+    "id": "day2-booking-1",
+    "section_id": "day2",
+    "booking_type": "activity",
+    "title": "Topkapi Palace Tickets",
+    "time": "Morning",
+    "note": "Arrive at opening time to avoid long lines."
+  },
+  {
+    "id": "day2-booking-2",
+    "section_id": "day2",
+    "booking_type": "flight",
+    "event_date": "2026-04-05",
+    "show_in_daily_overview": false,
+    "title": "Return Flight TK68",
+    "time": "01:55 AM",
+    "note": "Leave for IST around 21:30 for a stress-free transfer."
+  },
+  {
+    "id": "day2-booking-3",
+    "section_id": "day2",
+    "booking_type": "hotel",
+    "event_date": "2026-04-04",
+    "overview_hotel_action": "same",
+    "show_in_daily_overview": false,
+    "title": "Pera Apart (Luggage Pickup)",
+    "location": "Sultanahmet / Fatih",
+    "time": "Around 21:00",
+    "note": "Collect bags before heading to IST airport."
+  }
+]

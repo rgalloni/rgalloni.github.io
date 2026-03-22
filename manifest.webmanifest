@@ -1,0 +1,22 @@
+{
+  "name": "Istanbul Trip Guide",
+  "short_name": "Istanbul Guide",
+  "start_url": "./app_mobile.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f0f2f5",
+  "theme_color": "#1877f2",
+  "description": "Offline travel guide for Istanbul with itinerary, context, activities and bookings.",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

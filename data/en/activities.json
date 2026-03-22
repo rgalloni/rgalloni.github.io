@@ -1,0 +1,30 @@
+[
+  {
+    "id": "day1-activity-1",
+    "section_id": "day1",
+    "title": "Turkish Breakfast (Kahvalti)",
+    "time": "10:30 - 11:30",
+    "note": "Recovery meal after airport transfers."
+  },
+  {
+    "id": "day1-activity-2",
+    "section_id": "day1",
+    "title": "Sunset Cruise + Galata Bridge Walk",
+    "time": "18:00 - 21:30",
+    "note": "Best photo window is golden hour from the ferry deck."
+  },
+  {
+    "id": "day2-activity-1",
+    "section_id": "day2",
+    "title": "Grand Bazaar + Spice Bazaar",
+    "time": "13:00 - 15:30",
+    "note": "Shopping, snacks, and local products in Eminonu area."
+  },
+  {
+    "id": "day2-activity-2",
+    "section_id": "day2",
+    "title": "Galata / Istiklal / Taksim Walk",
+    "time": "16:00 - 18:30",
+    "note": "Use Tunel funicular to skip the steep uphill section."
+  }
+]

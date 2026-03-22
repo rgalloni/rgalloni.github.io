@@ -1,0 +1,30 @@
+[
+  {
+    "id": "day1-activity-1",
+    "section_id": "day1",
+    "title": "Colazione turca (Kahvalti)",
+    "time": "10:30 - 11:30",
+    "note": "Pasto di recupero dopo i trasferimenti aeroportuali."
+  },
+  {
+    "id": "day1-activity-2",
+    "section_id": "day1",
+    "title": "Crociera al tramonto + Passeggiata sul Ponte di Galata",
+    "time": "18:00 - 21:30",
+    "note": "La migliore finestra fotografica è l'ora d'oro dal ponte del traghetto."
+  },
+  {
+    "id": "day2-activity-1",
+    "section_id": "day2",
+    "title": "Gran Bazar + Bazar delle spezie",
+    "time": "13:00 - 15:30",
+    "note": "Shopping, snack e prodotti locali nella zona di Eminonu."
+  },
+  {
+    "id": "day2-activity-2",
+    "section_id": "day2",
+    "title": "Passeggiata Galata/Istiklal/Taksim",
+    "time": "16:00 - 18:30",
+    "note": "Usa la funicolare del Tunel per saltare la ripida sezione in salita."
+  }
+]

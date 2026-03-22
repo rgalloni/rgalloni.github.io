@@ -1,0 +1,53 @@
+[
+  {
+    "id": "chapter1",
+    "type": "chapter",
+    "title": "تركيا — اسطنبول",
+    "children": [
+      "intro",
+      "day1",
+      "day2"
+    ],
+    "label": "الفصل 1"
+  },
+  {
+    "id": "intro",
+    "type": "intro",
+    "label": "مقدمة",
+    "page": "index_mobile.ar.html",
+    "tabs": [
+      "context",
+      "bookings"
+    ]
+  },
+  {
+    "id": "day1",
+    "type": "day",
+    "date": "2026-04-03",
+    "label": "اليوم الأول",
+    "date_label": "الجمعة 3 أبريل",
+    "title": "الإمبراطورية والماء والاسترخاء",
+    "page": "day1_mobile.ar.html",
+    "tabs": [
+      "itinerary",
+      "context",
+      "activities",
+      "bookings"
+    ]
+  },
+  {
+    "id": "day2",
+    "type": "day",
+    "date": "2026-04-04",
+    "label": "اليوم الثاني",
+    "date_label": "السبت 4 أبريل",
+    "title": "روعة العثمانية والآثار والمدينة الحديثة",
+    "page": "day2_mobile.ar.html",
+    "tabs": [
+      "itinerary",
+      "context",
+      "activities",
+      "bookings"
+    ]
+  }
+]

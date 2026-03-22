@@ -1,0 +1,93 @@
+[
+  {
+    "id": "intro-booking-1",
+    "section_id": "intro",
+    "booking_type": "flight",
+    "title": "Volo Ruggero - Arrivo IST",
+    "time": "Fri, 03:40",
+    "note": "Tieni la conferma della prenotazione e il passaporto pronti per l'immigrazione."
+  },
+  {
+    "id": "intro-booking-2",
+    "section_id": "intro",
+    "booking_type": "flight",
+    "title": "Volo Ayoub - Arrivo SAW",
+    "time": "Fri, 06:45",
+    "note": "Pianifica il check-in su WhatsApp subito dopo l'atterraggio."
+  },
+  {
+    "id": "intro-booking-3",
+    "section_id": "intro",
+    "booking_type": "hotel",
+    "title": "Prenotazione Pera Apart",
+    "location": "Sultanahmet/Fatih",
+    "time": "Sultanahmet / Fatih",
+    "note": "Deposito bagagli al mattino, check-in standard più tardi nel corso della giornata."
+  },
+  {
+    "id": "day1-booking-1",
+    "section_id": "day1",
+    "booking_type": "activity",
+    "title": "Ingresso alla Cisterna Basilica",
+    "time": "14:30 slot",
+    "note": "Utilizza il biglietto prenotato in anticipo e arriva 10-15 minuti prima."
+  },
+  {
+    "id": "day1-booking-2",
+    "section_id": "day1",
+    "booking_type": "activity",
+    "title": "Traghetto/crociera sul Bosforo",
+    "time": "Around 18:00",
+    "note": "Acquista sul posto su Eminonu; tieni un po' di contanti in TRY."
+  },
+  {
+    "id": "day1-booking-3",
+    "section_id": "day1",
+    "booking_type": "flight",
+    "event_date": "2026-04-03",
+    "title": "Arrivi aeroportuali (IST + SAW)",
+    "time": "03:40 / 06:45",
+    "note": "Incontro dopo il trasferimento in aeroporto e proseguimento insieme verso la zona dell'hotel."
+  },
+  {
+    "id": "day1-booking-4",
+    "section_id": "day1",
+    "booking_type": "hotel",
+    "event_date": "2026-04-03",
+    "overview_hotel_action": "checkin",
+    "title": "Pera Apart Soggiorno",
+    "location": "Sultanahmet/Fatih",
+    "time": "Check-in and rest in the afternoon",
+    "note": "Base principale per le attività del Giorno 1 e del Giorno 2."
+  },
+  {
+    "id": "day2-booking-1",
+    "section_id": "day2",
+    "booking_type": "activity",
+    "title": "Biglietti per il Palazzo Topkapi",
+    "time": "Morning",
+    "note": "Arrivare all'orario di apertura per evitare lunghe file."
+  },
+  {
+    "id": "day2-booking-2",
+    "section_id": "day2",
+    "booking_type": "flight",
+    "event_date": "2026-04-05",
+    "show_in_daily_overview": false,
+    "title": "Volo di ritorno TK68",
+    "time": "01:55 AM",
+    "note": "Parti per l'IST intorno alle 21:30 per un trasferimento senza stress."
+  },
+  {
+    "id": "day2-booking-3",
+    "section_id": "day2",
+    "booking_type": "hotel",
+    "event_date": "2026-04-04",
+    "overview_hotel_action": "same",
+    "show_in_daily_overview": false,
+    "title": "Pera Apart (ritiro bagagli)",
+    "location": "Sultanahmet/Fatih",
+    "time": "Around 21:00",
+    "note": "Raccogli i bagagli prima di dirigerti all'aeroporto IST."
+  }
+]
