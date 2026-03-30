@@ -1,4 +1,4 @@
-const CACHE_NAME = 'istanbul-guide-spa-v12';
+const CACHE_NAME = 'istanbul-guide-spa-v15';
 const PRECACHE_URLS = [
   "app_mobile.html",
   "assets/fontawesome/css/all.min.css",

@@ -78,7 +78,7 @@
     "date": "2026-04-05",
     "label": "Day 3",
     "date_label": "Sunday, April 5th",
-    "title": "Arrival in Bangkok and Riverside Reset",
+    "title": "Arrival, Banthat Thong, and City Chaos",
     "tabs": [
       "itinerary",
       "context",
@@ -92,7 +92,7 @@
     "date": "2026-04-06",
     "label": "Day 4",
     "date_label": "Monday, April 6th",
-    "title": "Old City Temples and Skyline Evening",
+    "title": "Canals, Royal Temples, ICONSIAM, and Chinatown",
     "tabs": [
       "itinerary",
       "context",
@@ -106,7 +106,7 @@
     "date": "2026-04-07",
     "label": "Day 5",
     "date_label": "Tuesday, April 7th",
-    "title": "Canals, Markets, and Bangkok by Night",
+    "title": "From Floating Markets to Ancient Ruins (And the Night Sky)",
     "tabs": [
       "itinerary",
       "context",
@@ -120,7 +120,103 @@
     "date": "2026-04-08",
     "label": "Day 6",
     "date_label": "Wednesday, April 8th",
-    "title": "Ayutthaya Day Trip and Last Bangkok Evening",
+    "title": "Silk, Shopping, Sunset, and Muay Thai",
+    "tabs": [
+      "itinerary",
+      "context",
+      "activities",
+      "bookings"
+    ]
+  },
+  {
+    "id": "chapter3",
+    "type": "chapter",
+    "title": "Thailand — Chiang Mai",
+    "label": "Chapter 3",
+    "children": [
+      "intro-cnx",
+      "day7",
+      "day8"
+    ]
+  },
+  {
+    "id": "intro-cnx",
+    "type": "intro",
+    "label": "Chiang Mai Intro",
+    "tabs": [
+      "context",
+      "bookings"
+    ]
+  },
+  {
+    "id": "day7",
+    "type": "day",
+    "date": "2026-04-09",
+    "label": "Day 7",
+    "date_label": "Thursday, April 9th",
+    "title": "Arrival, Birthday in Old City, and Spirituality",
+    "tabs": [
+      "itinerary",
+      "context",
+      "activities",
+      "bookings"
+    ]
+  },
+  {
+    "id": "day8",
+    "type": "day",
+    "date": "2026-04-10",
+    "label": "Day 8",
+    "date_label": "Friday, April 10th",
+    "title": "The Roof of Thailand and the Elephant Jungle",
+    "tabs": [
+      "itinerary",
+      "context",
+      "activities",
+      "bookings"
+    ]
+  },
+  {
+    "id": "chapter4",
+    "type": "chapter",
+    "title": "Thailand — The South",
+    "label": "Chapter 4",
+    "children": [
+      "intro-south",
+      "day9",
+      "day10"
+    ]
+  },
+  {
+    "id": "intro-south",
+    "type": "intro",
+    "label": "The South Intro",
+    "tabs": [
+      "context",
+      "bookings"
+    ]
+  },
+  {
+    "id": "day9",
+    "type": "day",
+    "date": "2026-04-11",
+    "label": "Day 9",
+    "date_label": "Saturday, April 11th",
+    "title": "From the North to the Andaman Sea",
+    "tabs": [
+      "itinerary",
+      "context",
+      "activities",
+      "bookings"
+    ]
+  },
+  {
+    "id": "day10",
+    "type": "day",
+    "date": "2026-04-12",
+    "label": "Day 10",
+    "date_label": "Sunday, April 12th",
+    "title": "Phang Nga Bay & The James Bond Island",
     "tabs": [
       "itinerary",
       "context",

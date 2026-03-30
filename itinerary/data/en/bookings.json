@@ -139,17 +139,17 @@
     "id": "day4-booking-1",
     "section_id": "day4",
     "booking_type": "activity",
-    "title": "Mahanakhon Skywalk Slot",
-    "time": "Sunset window",
-    "note": "Book sunset entry to avoid sold-out prime slots."
+    "title": "ICONSIAM Fountain Show",
+    "time": "18:30 showtime",
+    "note": "Arrive 10-15 minutes early at River Park; later shows are usually available if needed."
   },
   {
     "id": "day5-booking-1",
     "section_id": "day5",
-    "booking_type": "transport",
-    "title": "Grab / Bolt / inDrive Ready",
-    "time": "All day",
-    "note": "Use app rides as backup when BTS/MRT or boats are not practical."
+    "booking_type": "activity",
+    "title": "TripGuru 11-Hour Loop Tour",
+    "time": "Meeting at 06:50",
+    "note": "Meet at MBK Center, 1st-floor entrance. Look for the \"TripGuru\" sign."
   },
   {
     "id": "day6-booking-1",
@@ -180,5 +180,41 @@
     "location": "Sathorn",
     "time": "By 12:00 on Apr 9",
     "note": "Checkout happens after departure window; finalize luggage prep on Day 6."
+  },
+  {
+    "id": "day7-booking-1",
+    "section_id": "day7",
+    "booking_type": "activity",
+    "title": "Doi Suthep & Monks Chanting Tour",
+    "time": "Meeting at 15:35",
+    "event_date": "2026-04-09",
+    "note": "Meet 5 mins early at 13 Inthawarorot Rd (benches near temple). Guide 'Pon' will have a sign. Wear clothes covering knees/shoulders. Code: GYGVN3BMYF3Q / PIN: zLsaLsE#"
+  },
+  {
+    "id": "day8-booking-1",
+    "section_id": "day8",
+    "booking_type": "activity",
+    "title": "Doi Inthanon & Elephant Sanctuary",
+    "time": "Meeting at 07:15 - 07:25",
+    "event_date": "2026-04-10",
+    "note": "Meet at Pon Elephant Thailand office on Kotchasarn Rd (unless hotel pickup confirmed). Code: GYG7VK2VQHQN / PIN: Yv69MkPd"
+  },
+  {
+    "id": "day9-booking-1",
+    "section_id": "day9",
+    "booking_type": "flight",
+    "title": "Thai Vietjet VZ414 to Phuket",
+    "time": "10:40 from CNX",
+    "event_date": "2026-04-11",
+    "note": "Flight time is 2h 10m. Arrives at HKT at 12:50. PNR: 755645099 (Kiwi.com)"
+  },
+  {
+    "id": "day10-booking-1",
+    "section_id": "day10",
+    "booking_type": "activity",
+    "title": "Phang Nga Bay 7 Wonders 6-Islands Tour",
+    "time": "Pickup 07:15 - 08:00",
+    "event_date": "2026-04-12",
+    "note": "Code: GYGBLHRG5WQM / PIN: H3Lpu9Sr. Wait in hotel lobby. Includes light breakfast, buffet lunch, sea canoeing, national park fees."
   }
 ]
