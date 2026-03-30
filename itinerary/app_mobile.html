@@ -452,7 +452,7 @@
 
     function sectionMarkdown(section, chapter, itinerary) {
       if (section.type === 'intro') {
-        return `# Chapter 1: ${chapter.title}\n\n${itinerary.context_markdown || ''}`;
+        return `# ${chapter.label || 'Chapter'}: ${chapter.title || ''}\n\n${itinerary.context_markdown || ''}`;
       }
       const parts = [`# ${section.label}: ${section.date_label} — ${section.title}`];
       if (itinerary.overview_markdown) parts.push('', '## [[ICON:fa-solid fa-compass]] Daily Overview', '', itinerary.overview_markdown);
@@ -584,13 +584,16 @@
       };
     }
 
-    function buildHeader(chapter, section, navSections) {
-      document.getElementById('chapter-label').textContent = `Chapter 1 - ${(chapter.title || '').split('—').slice(-1)[0].trim() || chapter.title}`;
+    function buildHeader(chapter, section, navSections, chapters, byId) {
+      document.getElementById('chapter-label').textContent = `${chapter.label || 'Chapter'} - ${(chapter.title || '').split('—').slice(-1)[0].trim() || chapter.title}`;
       document.getElementById('section-label').textContent = section.label || section.id;
       document.getElementById('lang-code').textContent = state.lang.toUpperCase();
 
       const sectionMenu = document.getElementById('section-menu');
-      sectionMenu.innerHTML = `<div class="day-switcher-label">${document.getElementById('chapter-label').textContent}</div>` + navSections.map(s => `<button class="day-option ${s.id === section.id ? 'active' : ''}" data-id="${s.id}">${s.label || s.id}</button>`).join('');
+      sectionMenu.innerHTML = chapters.map(ch => {
+        const chapterSections = (ch.children || []).map(id => byId[id]).filter(Boolean);
+        return `<div class="day-switcher-label">${ch.label || 'Chapter'} - ${(ch.title || '').split('—').slice(-1)[0].trim() || ch.title}</div>` + chapterSections.map(s => `<button class="day-option ${s.id === section.id ? 'active' : ''}" data-id="${s.id}">${s.label || s.id}</button>`).join('');
+      }).join('');
       sectionMenu.querySelectorAll('.day-option').forEach(btn => btn.onclick = () => {
         state.sectionId = btn.dataset.id;
         localStorage.setItem('guide_section', state.sectionId);
@@ -627,15 +630,18 @@
       state.data = await loadData(state.lang);
       const { sections, itineraries, activities, bookings } = state.data;
       const byId = Object.fromEntries(sections.map(s => [s.id, s]));
-      const chapter = sections.find(s => s.type === 'chapter');
+      const chapters = sections.filter(s => s.type === 'chapter');
+      const allNavIds = chapters.flatMap(ch => ch.children || []);
+
+      if (!byId[state.sectionId]) state.sectionId = allNavIds[0] || 'intro';
+      const section = byId[state.sectionId];
+      let chapter = chapters.find(ch => (ch.children || []).includes(section.id));
+      if (!chapter) chapter = chapters[0] || { id: 'chapter', label: 'Chapter', title: '', children: [] };
       const navIds = chapter.children || [];
       const navSections = navIds.map(id => byId[id]).filter(Boolean);
-
-      if (!byId[state.sectionId]) state.sectionId = navSections[0]?.id || 'intro';
-      const section = byId[state.sectionId];
       const itinerary = itineraries.find(i => i.section_id === section.id) || {};
 
-      buildHeader(chapter, section, navSections);
+      buildHeader(chapter, section, navSections, chapters, byId);
 
       const md = sectionMarkdown(section, chapter, itinerary);
       const html = processHtmlChunk(marked.parse(md, { breaks: true }));

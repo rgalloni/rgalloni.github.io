@@ -1,4 +1,4 @@
-const CACHE_NAME = 'istanbul-guide-spa-v11';
+const CACHE_NAME = 'istanbul-guide-spa-v12';
 const PRECACHE_URLS = [
   "app_mobile.html",
   "assets/fontawesome/css/all.min.css",
@@ -38,6 +38,7 @@ const PRECACHE_URLS = [
   "images/09_galata_tower.jpg",
   "images/10_galata_bridge.jpg",
   "images/11_taksim_square.jpg",
+  "images/Bangkok-central-map.png",
   "images/Istanbul-City-Map.jpg",
   "images/_normalized/01_hippodrome_of_constantinople.png",
   "images/_normalized/02_basilica_cistern.png",

@@ -49,5 +49,83 @@
       "activities",
       "bookings"
     ]
+  },
+  {
+    "id": "chapter2",
+    "type": "chapter",
+    "title": "Thailand — Bangkok",
+    "children": [
+      "intro-bkk",
+      "day3",
+      "day4",
+      "day5",
+      "day6"
+    ],
+    "label": "Chapter 2"
+  },
+  {
+    "id": "intro-bkk",
+    "type": "intro",
+    "label": "Bangkok Intro",
+    "tabs": [
+      "context",
+      "bookings"
+    ]
+  },
+  {
+    "id": "day3",
+    "type": "day",
+    "date": "2026-04-05",
+    "label": "Day 3",
+    "date_label": "Sunday, April 5th",
+    "title": "Arrival in Bangkok and Riverside Reset",
+    "tabs": [
+      "itinerary",
+      "context",
+      "activities",
+      "bookings"
+    ]
+  },
+  {
+    "id": "day4",
+    "type": "day",
+    "date": "2026-04-06",
+    "label": "Day 4",
+    "date_label": "Monday, April 6th",
+    "title": "Old City Temples and Skyline Evening",
+    "tabs": [
+      "itinerary",
+      "context",
+      "activities",
+      "bookings"
+    ]
+  },
+  {
+    "id": "day5",
+    "type": "day",
+    "date": "2026-04-07",
+    "label": "Day 5",
+    "date_label": "Tuesday, April 7th",
+    "title": "Canals, Markets, and Bangkok by Night",
+    "tabs": [
+      "itinerary",
+      "context",
+      "activities",
+      "bookings"
+    ]
+  },
+  {
+    "id": "day6",
+    "type": "day",
+    "date": "2026-04-08",
+    "label": "Day 6",
+    "date_label": "Wednesday, April 8th",
+    "title": "Ayutthaya Day Trip and Last Bangkok Evening",
+    "tabs": [
+      "itinerary",
+      "context",
+      "activities",
+      "bookings"
+    ]
   }
 ]

@@ -26,5 +26,47 @@
     "title": "Galata / Istiklal / Taksim Walk",
     "time": "16:00 - 18:30",
     "note": "Use Tunel funicular to skip the steep uphill section."
+  },
+  {
+    "id": "day3-activity-1",
+    "section_id": "day3",
+    "title": "Riverside Sunset Walk",
+    "time": "19:30 - 20:30",
+    "note": "Low-effort first-night activity after check-in and recovery."
+  },
+  {
+    "id": "day4-activity-1",
+    "section_id": "day4",
+    "title": "Wat Arun + Wat Pho Cluster",
+    "time": "08:30 - 11:45",
+    "note": "Do temples early before humidity and crowds peak."
+  },
+  {
+    "id": "day4-activity-2",
+    "section_id": "day4",
+    "title": "Mahanakhon Skywalk",
+    "time": "17:30 - 19:00",
+    "note": "Best booked for golden hour and sunset skyline."
+  },
+  {
+    "id": "day5-activity-1",
+    "section_id": "day5",
+    "title": "Khlong / Canal Segment",
+    "time": "Morning",
+    "note": "Practical and scenic way to bypass heavy road traffic."
+  },
+  {
+    "id": "day5-activity-2",
+    "section_id": "day5",
+    "title": "Chinatown or Banthat Thong Food Night",
+    "time": "Evening",
+    "note": "Pick one area and enjoy it deeply instead of crossing zones."
+  },
+  {
+    "id": "day6-activity-1",
+    "section_id": "day6",
+    "title": "Ayutthaya Historic Core",
+    "time": "10:00 - 16:30",
+    "note": "Prioritize Wat Mahathat and Wat Phra Si Sanphet."
   }
 ]

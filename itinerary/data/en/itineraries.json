@@ -185,5 +185,201 @@
         ]
       }
     ]
+  },
+  {
+    "section_id": "intro-bkk",
+    "overview_markdown": "",
+    "schedule_markdown": "",
+    "context_markdown": "## [[ICON:fa-solid fa-book-open]] Introduction & History\n\nBangkok (Krung Thep) became Thailand's capital in **1782**, when King Rama I moved the royal court from Thonburi to the east bank of the Chao Phraya River. What began as a strategic river settlement grew into Thailand's political, economic, and cultural center. The old royal core (Rattanakosin) still preserves palace architecture, major temples, and ceremonial spaces, while modern districts expanded into finance, shopping, nightlife, and high-rise living. Today Bangkok is a city of contrasts: sacred and chaotic, traditional and hyper-modern, deeply local yet globally connected.\n\n---\n\n## [[ICON:fa-solid fa-map]] Bangkok Neighborhood Map\n\n[[IMG-FULL:Bangkok-central-map.png]]\n\n---\n\n## [[ICON:fa-solid fa-circle-info]] Essential Things to Know\n\n### [[ICON:fa-solid fa-city]] 1. How Bangkok Is Divided (and when each area is best)\n- **Sukhumvit:** Cafes, rooftops, bars, and international food. Great for nightlife and late dinners. Usually higher prices, with traffic-heavy roads around Asok and Thong Lo.\n- **Siam:** Most central shopping/transit zone (Siam, Chit Lom, National Stadium area). Excellent BTS connectivity and easy mall-to-mall movement in heat/rain.\n- **Pratunam:** Budget shopping and market energy. Very practical for bargains, but crowded sidewalks and chaotic traffic are normal.\n- **Riverside:** More peaceful and scenic, often with nicer hotels. Better for slow mornings, boat connections, and relaxed sunset dinners.\n- **Old City (Rattanakosin):** Temple and heritage core (Grand Palace, Wat Pho, Wat Arun side access). Best visited early morning before heat and crowds peak.\n- **Sathorn / Silom (your base corridor):** Business-meets-lifestyle area with strong MRT/BTS access, easier airport strategy, and good dining options.\n\n### [[ICON:fa-solid fa-mobile-screen-button]] 2. Apps To Install Before Landing\n- **Grab:** Most reliable default for rides and food delivery.\n- **Bolt:** Often cheaper than Grab; compare before booking.\n- **12Go:** Useful for train/van/ferry and intercity planning.\n- **inDrive:** Lets you compare and negotiate ride prices.\n- **LINE:** Essential messaging app in Thailand (many services and local contacts use it).\n- **Google Maps + offline map area:** Helpful backup when network is weak in transit.\n\n### [[ICON:fa-solid fa-route]] 3. Transport Playbook (save time, save stress)\n- Use **BTS/MRT** as the default during traffic peaks.\n- Use **boats/canals** when practical to bypass road congestion.\n- Use **tuk-tuks** mainly for short experience rides, not as the efficient option.\n- If a taxi refuses meter, skip it and switch car/app immediately.\n- Between **16:30 and 19:30**, avoid short road trips when possible: even 3 km can be very slow.\n- **From BKK (Suvarnabhumi):** Airport Rail Link from **Level B**, low cost, about 30 minutes to city rail nodes, roughly 05:30-midnight.\n- **For DMK departures:** leave with strong buffer in the morning; road traffic to Don Mueang can be unpredictable.\n\n### [[ICON:fa-solid fa-money-bill-wave]] 4. Money, Cards, and Exchange Rules\n- Avoid exchanging cash in main arrival halls.\n- Better rates are usually found at **B Floor near Airport Rail Link** (e.g., SuperRich branches).\n- Keep a daily stash of **20 / 50 / 100 THB** notes for food stalls, boats, and small shops.\n- ATM withdrawals carry fixed fees, so fewer larger withdrawals are usually better than many small ones.\n- Cards work in malls/hotels, but cash is still king for street food and local markets.\n\n### [[ICON:fa-solid fa-temperature-high]] 5. Heat, Health, and Daily Comfort\n- Bangkok heat/humidity can drain energy fast: build shaded or indoor breaks into the plan.\n- Hydrate constantly and add electrolytes on high-walk days.\n- Use sunscreen and lightweight, breathable clothing.\n- Be selective with ice from low-turnover stalls; prefer clean, busy vendors.\n\n### [[ICON:fa-solid fa-mosque]] 6. Temple Etiquette and Local Respect\n- For major temples: shoulders and knees covered; avoid very short shorts.\n- Remove shoes where requested.\n- Keep voice and behavior calm in sacred areas.\n- Be respectful in conversations about the Thai monarchy and religion.\n\n### [[ICON:fa-solid fa-water]] 7. Songkran Practical Notes (seasonal)\n- Wear quick-dry clothing and keep valuables in waterproof pouches.\n- Expect ice-cold water buckets in celebration zones.\n- Split phone, passport copy, and power bank into separate sealed pouches.\n\n### [[ICON:fa-solid fa-triangle-exclamation]] 8. Scam Watchlist\n- **\"Temple closed\" tuk-tuk scam:** verify directly at the actual entrance.\n- **Scooter damage scam:** film the whole bike before riding; avoid leaving your passport as deposit.\n- **ATM skimming:** prefer indoor bank ATMs and always cover your PIN.\n- **Fake police checks:** ask for official ID and do not hand over wallet/phone casually.\n- **\"Meter broken\" taxi scam:** exit and switch taxi/app.\n",
+    "schedule_items": []
+  },
+  {
+    "section_id": "day3",
+    "overview_markdown": "Arrival day in Bangkok: keep the pace smooth, recover from the long flight, and use the evening to settle into the city rhythm.",
+    "schedule_markdown": "",
+    "context_markdown": "### Arrival Flow\nLand, clear immigration, get connected, and avoid heavy logistics. Day 3 is about reducing friction, not maximizing attractions.\n\n### Hotel Base (Sathorn)\nLe D'Tel Bangkok in Sathorn gives good access to MRT/BTS corridors, riverside links, and evening dining areas.",
+    "schedule_items": [
+      {
+        "time": "15:25 - 17:00",
+        "title": "Land at BKK and clear arrivals",
+        "details": [
+          "International arrival from Istanbul (TK68).",
+          "Immigration, baggage pickup, and SIM/cash setup.",
+          "If exchanging money, prefer B Floor near Airport Rail Link for better rates."
+        ]
+      },
+      {
+        "time": "17:00 - 18:00",
+        "title": "Transfer to hotel in Sathorn",
+        "details": [
+          "Use Airport Rail Link + city transit, or Grab depending on luggage and energy.",
+          "Avoid unnecessary peak-hour road detours."
+        ]
+      },
+      {
+        "time": "18:00 - 19:00",
+        "title": "Check-in and reset",
+        "details": [
+          "Check in at Le D'Tel Bangkok.",
+          "Hydrate, shower, and take a short recovery break."
+        ]
+      },
+      {
+        "time": "19:30 - 21:30",
+        "title": "Easy first night",
+        "details": [
+          "Keep dinner simple near Sathorn or riverside.",
+          "Optional short walk for skyline views, then early rest."
+        ]
+      }
+    ]
+  },
+  {
+    "section_id": "day4",
+    "overview_markdown": "Temple + river + skyline day. Start cultural, hide from afternoon heat indoors, then close with sunset views.",
+    "schedule_markdown": "",
+    "context_markdown": "### Old City vs Modern Core\nThis day combines Rattanakosin (temples and history) with modern Bangkok (Siam/Sathorn skyline) so you get both identities in one flow.\n\n### Heat Strategy\nMidday in Bangkok is intense. Put indoor or shaded blocks between outdoor temple visits.",
+    "schedule_items": [
+      {
+        "time": "08:30 - 10:00",
+        "title": "Wat Arun",
+        "details": [
+          "Arrive early for cooler weather and better photos.",
+          "Dress code: shoulders and knees covered."
+        ]
+      },
+      {
+        "time": "10:15 - 11:45",
+        "title": "Wat Pho",
+        "details": [
+          "Cross by local ferry and visit the Reclining Buddha.",
+          "Optional short traditional massage break nearby."
+        ]
+      },
+      {
+        "time": "12:00 - 13:30",
+        "title": "Lunch by the river",
+        "details": [
+          "Pick a shaded riverside restaurant or indoor option."
+        ]
+      },
+      {
+        "time": "14:30 - 16:30",
+        "title": "ICONSIAM / SookSiam",
+        "details": [
+          "Indoor market + cooling break during peak heat.",
+          "Good stop for snacks and short shopping."
+        ]
+      },
+      {
+        "time": "17:30 - 19:00",
+        "title": "Mahanakhon Skywalk at sunset",
+        "details": [
+          "Best golden-hour skyline window.",
+          "Book ahead if you want the exact sunset slot."
+        ]
+      },
+      {
+        "time": "19:30 - 22:00",
+        "title": "Dinner and relaxed nightlife",
+        "details": [
+          "Choose Chinatown street food or a rooftop in Sukhumvit.",
+          "Return before late-night traffic spikes."
+        ]
+      }
+    ]
+  },
+  {
+    "section_id": "day5",
+    "overview_markdown": "Balanced exploration day: local transport, canals, markets, and a high-energy but flexible evening.",
+    "schedule_markdown": "",
+    "context_markdown": "### Why Canal Segments Matter\nCanal and river routes are not just scenic; they are often the fastest way to move when roads lock up.\n\n### Evening Zoning\nPick one area for the night (Chinatown, Banthat Thong, or Sukhumvit) instead of bouncing across the city in traffic.",
+    "schedule_items": [
+      {
+        "time": "09:00 - 11:30",
+        "title": "Khlong and local neighborhood block",
+        "details": [
+          "Use canal or river route to avoid road congestion.",
+          "Focus on one coherent area, not too many hops."
+        ]
+      },
+      {
+        "time": "12:00 - 13:30",
+        "title": "Lunch and cool-down",
+        "details": [
+          "Pick a place with A/C and recharge before afternoon walking."
+        ]
+      },
+      {
+        "time": "14:00 - 16:30",
+        "title": "Siam / Pratunam exploration",
+        "details": [
+          "Use BTS/MRT for fast movement between hubs.",
+          "Keep cash in small notes for market purchases."
+        ]
+      },
+      {
+        "time": "17:30 - 21:30",
+        "title": "Night block: food + atmosphere",
+        "details": [
+          "Option A: Chinatown for street food energy.",
+          "Option B: Banthat Thong for modern food street vibe.",
+          "Option C: Sukhumvit rooftop for skyline and cocktails."
+        ]
+      }
+    ]
+  },
+  {
+    "section_id": "day6",
+    "overview_markdown": "Final full Bangkok day: historical day trip to Ayutthaya, then return for an easy last evening before the next morning flight.",
+    "schedule_markdown": "",
+    "context_markdown": "### Ayutthaya Pace\nStart early and keep temple blocks clustered to avoid midday heat burnout.\n\n### Return Strategy\nDo not overbook the night. Keep buffer for packing and airport transfer prep for the 08:05 flight on April 9.",
+    "schedule_items": [
+      {
+        "time": "08:00 - 10:00",
+        "title": "Transfer to Ayutthaya",
+        "details": [
+          "Train or private transfer depending on comfort and timing.",
+          "Bring hat, water, and light clothing."
+        ]
+      },
+      {
+        "time": "10:00 - 13:00",
+        "title": "Ayutthaya temple core",
+        "details": [
+          "Wat Mahathat and Wat Phra Si Sanphet as priority stops.",
+          "Respect temple dress rules."
+        ]
+      },
+      {
+        "time": "13:00 - 14:00",
+        "title": "Local lunch",
+        "details": [
+          "Try grilled river prawns or a local riverside option."
+        ]
+      },
+      {
+        "time": "14:00 - 16:30",
+        "title": "Final Ayutthaya block",
+        "details": [
+          "Wat Chaiwatthanaram or a short river loop before return."
+        ]
+      },
+      {
+        "time": "16:30 - 18:30",
+        "title": "Return to Bangkok",
+        "details": [
+          "Plan around evening congestion entering the city."
+        ]
+      },
+      {
+        "time": "19:30 - 21:30",
+        "title": "Light final evening",
+        "details": [
+          "Dinner near the hotel and prep for next-day airport departure.",
+          "Keep passport, tickets, and ride plan ready before sleep."
+        ]
+      }
+    ]
   }
 ]

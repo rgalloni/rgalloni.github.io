@@ -89,5 +89,96 @@
     "location": "Sultanahmet / Fatih",
     "time": "Around 21:00",
     "note": "Collect bags before heading to IST airport."
+  },
+  {
+    "id": "intro-bkk-booking-1",
+    "section_id": "intro-bkk",
+    "booking_type": "flight",
+    "title": "Turkish Airlines TK68 (IST -> BKK)",
+    "time": "Sun, Apr 5 - 01:55 to 15:25",
+    "note": "International arrival into Bangkok Suvarnabhumi (BKK)."
+  },
+  {
+    "id": "intro-bkk-booking-2",
+    "section_id": "intro-bkk",
+    "booking_type": "hotel",
+    "title": "Le D'Tel Bangkok Reservation",
+    "location": "269/1 Suanplu Soi 6, Sathorn, Bangkok",
+    "time": "Check-in Apr 5 from 14:00 / Check-out Apr 9 by 12:00",
+    "note": "4 nights in Sathorn (Booking.com confirmation available offline in documents)."
+  },
+  {
+    "id": "intro-bkk-booking-3",
+    "section_id": "intro-bkk",
+    "booking_type": "flight",
+    "title": "Thai AirAsia FD8435 (DMK -> CNX)",
+    "time": "Thu, Apr 9 - 08:05 to 09:20",
+    "note": "Next-leg domestic flight to Chiang Mai."
+  },
+  {
+    "id": "day3-booking-1",
+    "section_id": "day3",
+    "booking_type": "flight",
+    "event_date": "2026-04-05",
+    "title": "Arrival Flight TK68",
+    "time": "15:25 at BKK",
+    "note": "Arrival from Istanbul; complete immigration and transfer to hotel."
+  },
+  {
+    "id": "day3-booking-2",
+    "section_id": "day3",
+    "booking_type": "hotel",
+    "event_date": "2026-04-05",
+    "overview_hotel_action": "checkin",
+    "title": "Le D'Tel Bangkok",
+    "location": "Sathorn",
+    "time": "From 14:00",
+    "note": "Main base for Bangkok block (Apr 5-9)."
+  },
+  {
+    "id": "day4-booking-1",
+    "section_id": "day4",
+    "booking_type": "activity",
+    "title": "Mahanakhon Skywalk Slot",
+    "time": "Sunset window",
+    "note": "Book sunset entry to avoid sold-out prime slots."
+  },
+  {
+    "id": "day5-booking-1",
+    "section_id": "day5",
+    "booking_type": "transport",
+    "title": "Grab / Bolt / inDrive Ready",
+    "time": "All day",
+    "note": "Use app rides as backup when BTS/MRT or boats are not practical."
+  },
+  {
+    "id": "day6-booking-1",
+    "section_id": "day6",
+    "booking_type": "activity",
+    "title": "Ayutthaya Day Trip",
+    "time": "Full day",
+    "note": "Train or private transfer depending on weather and energy."
+  },
+  {
+    "id": "day6-booking-2",
+    "section_id": "day6",
+    "booking_type": "flight",
+    "event_date": "2026-04-09",
+    "show_in_daily_overview": false,
+    "title": "Thai AirAsia FD8435 to Chiang Mai",
+    "time": "08:05 from DMK",
+    "note": "Set alarms, pack at night, and leave early for airport transfer."
+  },
+  {
+    "id": "day6-booking-3",
+    "section_id": "day6",
+    "booking_type": "hotel",
+    "event_date": "2026-04-09",
+    "show_in_daily_overview": false,
+    "overview_hotel_action": "checkout",
+    "title": "Le D'Tel Bangkok Checkout",
+    "location": "Sathorn",
+    "time": "By 12:00 on Apr 9",
+    "note": "Checkout happens after departure window; finalize luggage prep on Day 6."
   }
 ]
