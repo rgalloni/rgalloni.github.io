@@ -184,7 +184,8 @@
     "children": [
       "intro-south",
       "day9",
-      "day10"
+      "day10",
+      "day11"
     ]
   },
   {
@@ -222,6 +223,19 @@
       "context",
       "activities",
       "bookings"
+    ]
+  },
+  {
+    "id": "day11",
+    "type": "day",
+    "date": "2026-04-13",
+    "label": "Day 11",
+    "date_label": "Monday, April 13th",
+    "title": "Songkran: From Culture to Total Madness",
+    "tabs": [
+      "itinerary",
+      "context",
+      "activities"
     ]
   }
 ]

@@ -764,5 +764,75 @@
         ]
       }
     ]
+  },
+  {
+    "section_id": "day11",
+    "overview_markdown": "A tactical strike on the biggest water festival in the world. Spend the morning in Phuket Old Town for a beautiful, highly photogenic water battle amidst historic mansions and street art, then ride an open-air tuk-tuk straight into the absolute madness of Patong.",
+    "schedule_markdown": "",
+    "context_markdown": "### Songkran: The Thai New Year\nSongkran originally is a deeply spiritual Buddhist festival marking the traditional Thai New Year. The core ritual involves pouring scented water over Buddha statues and the hands of elders to symbolize purification and the washing away of bad luck. Over time, in major cities and tourist hubs, this water-throwing tradition has evolved into the world's largest, craziest, and most joyous multi-day street water fight. \n\n### The Rules of Engagement\nOn April 13th, if you step outside, you consent to being soaked. Locals will use buckets of ice-cold water, high-powered water guns, and hoses. Another common tradition is having *din sor phong* (a fragrant, cooling white talcum powder paste) smeared on your cheeks as a blessing. The golden rule of Songkran: no matter how cold the water or how shocked you are, you must always smile. Getting angry is culturally unacceptable.\n\n### Old Town vs. Patong: A Tale of Two Battles\nThere is absolutely a water war in Phuket Old Town, but it is vastly different from Patong. Old Town is more local, energetic but manageable, and incredibly photogenic. The narrow streets mean intense, fun skirmishes, but you can find shelter under the arched walkways. Patong, on the other hand, is a chaotic, non-stop \"meat grinder\" of foam machines, massive crowds, and pumping club music. Doing Old Town first allows you to warm up before facing Patong's madness.\n\n### What to See in Phuket Old Town\nBeyond the water fights, the Old Town is an architectural gem. In the late 19th century, a tin mining boom brought European mining companies and Hokkien Chinese merchants to Phuket. They built the town in a unique \"Sino-Portuguese\" style:\n- **Soi Romanee & Thalang Road:** The most iconic streets, lined with pastel-colored (often bright pink) townhouses and ornate wooden doors.\n- **The \"Five-Foot Ways\":** Arched, covered sidewalks designed to protect pedestrians from sun and rain (which will also protect your camera from water guns!).\n- **Street Art:** Look for vibrant murals hidden in the alleys depicting Phuket's cultural heritage.\n- **Chinese Shrines:** Ornate, incense-filled temples tucked between the cafes.\n\n### Southern Thai Cuisine\nPhuket is a UNESCO Creative City of Gastronomy. Southern Thai food is famously the spiciest in the country, relying heavily on turmeric, shrimp paste, and fresh seafood. Dishes like *Moo Hong* (sweet braised pork belly) and *Gaeng Pu Bai Chaplu* (yellow crab meat curry with betel leaves) are absolute must-tries while exploring the Old Town.",
+    "schedule_items": [
+      {
+        "time": "08:30 - 09:00",
+        "title": "Tactical Escape to Old Town 🚕",
+        "details": [
+          "**Crucial Prep:** Put your phone, cash, and hotel key in a waterproof dry-bag pouch around your neck.",
+          "[[ICON:fa-solid fa-taxi]] Take a closed, air-conditioned Grab from Patong to Phuket Old Town before the streets lock down for the festival."
+        ]
+      },
+      {
+        "time": "09:00 - 11:30",
+        "title": "Sino-Portuguese Exploration & The First Battle 📸💦",
+        "details": [
+          "[[ICON:fa-solid fa-person-walking]] Walk along **Thalang Road** and the incredibly photogenic, pastel-pink **Soi Romanee**.",
+          "**The Water Fight Begins:** By 10:00 AM, the local water battles will start. It's incredibly fun and the contrast of splashing water against the heritage buildings makes for stunning photos.",
+          "Explore the hidden street art murals and ancient Chinese shrines between the water skirmishes.",
+          "Use the arched 'five-foot ways' (covered sidewalks) to take cover and protect your camera.",
+          "[[ICON:fa-solid fa-mug-hot]] Grab a coffee at *DouBrew* or an artisanal treat at *Torry's Ice Cream* when you need a break."
+        ]
+      },
+      {
+        "time": "11:30 - 13:00",
+        "title": "The Southern Lunch 🍛",
+        "details": [
+          "[[ICON:fa-solid fa-utensils]] Eat indoors before the afternoon chaos erupts.",
+          "Head to **One Chun** (vintage, quirky vibe) or **Tu Kab Khao** (elegant, colonial vibe with a giant lobster on the wall). Both are Michelin Bib Gourmand.",
+          "Order the Crab Meat Curry and the Braised Pork Belly (Moo Hong)."
+        ]
+      },
+      {
+        "time": "13:00 - 14:00",
+        "title": "The Moving Target (Return to Patong) 🛺",
+        "details": [
+          "Buy massive water guns in Old Town.",
+          "[[ICON:fa-solid fa-car]] Hire an open-air Tuk-Tuk to drive you back to Patong.",
+          "**Warning:** You are now a moving target. Locals waiting by the roadside will throw buckets of ice water directly into the back of your Tuk-Tuk as you pass. You will arrive soaked."
+        ]
+      },
+      {
+        "time": "14:00 - 18:00",
+        "title": "The Patong Water War 🔫💦",
+        "details": [
+          "[[ICON:fa-solid fa-person-walking]] Step onto Patong Beach Road and **Bangla Road**.",
+          "This is maximum chaos. The streets are closed to traffic and packed with thousands of people, pickup trucks loaded with water barrels, foam machines, and booming music.",
+          "Embrace the madness, smile at everyone, and fight back."
+        ]
+      },
+      {
+        "time": "18:30 - 20:00",
+        "title": "Shower and Shiver 🚿",
+        "details": [
+          "Return to the hotel. You will be freezing from the ice water and covered in white powder.",
+          "Take a very long, very hot shower and change into dry clothes."
+        ]
+      },
+      {
+        "time": "20:00 onwards",
+        "title": "The New Year's Night 🌙",
+        "details": [
+          "[[ICON:fa-solid fa-utensils]] Head out for dinner. *Note:* Even at night, you might still get splashed, so dress lightly.",
+          "[[ICON:fa-solid fa-martini-glass-citrus]] Head back to Bangla Road if you have the energy. The water fights slow down slightly, and the massive nightclubs (like Illuzion) host some of the biggest Songkran parties of the year."
+        ]
+      }
+    ]
   }
 ]

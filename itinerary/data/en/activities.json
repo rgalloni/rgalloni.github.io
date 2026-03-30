@@ -271,5 +271,26 @@
     "title": "Aloe Vera or Foot Massage",
     "time": "After dinner",
     "note": "Highly recommended to soothe sunburns and relax after a long day on the water."
+  },
+  {
+    "id": "day11-activity-1",
+    "section_id": "day11",
+    "title": "Soi Romanee & Thalang Road",
+    "time": "09:00 - 11:30",
+    "note": "The most photogenic streets in Phuket Old Town. Perfect for morning photos before the heavy water fights begin."
+  },
+  {
+    "id": "day11-activity-2",
+    "section_id": "day11",
+    "title": "One Chun / Tu Kab Khao",
+    "time": "11:30 - 13:00",
+    "note": "Two incredible Michelin Bib Gourmand restaurants in Old Town specializing in Southern Thai cuisine."
+  },
+  {
+    "id": "day11-activity-3",
+    "section_id": "day11",
+    "title": "Bangla Road Water Fight",
+    "time": "14:00 - 18:00",
+    "note": "The epicenter of the Songkran madness in Patong. Absolute chaos, ice water, and loud music."
   }
 ]
