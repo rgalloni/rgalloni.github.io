@@ -114,9 +114,9 @@
   {
     "id": "day5-activity-1",
     "section_id": "day5",
-    "title": "TripGuru 11-Hour Loop Tour",
-    "time": "06:50 - 18:30",
-    "note": "Maeklong Railway, Damnoen Saduak floating market, and Ayutthaya ruins in one go."
+    "title": "Ayutthaya, Railway & Floating Markets Full-Day Tour",
+    "time": "06:50 meeting / 07:00 start",
+    "note": "Booked GetYourGuide tour with TripGuru. Meet at MBK Center, 1st-floor entrance next to The Beef Master."
   },
   {
     "id": "day5-activity-2",
@@ -189,6 +189,13 @@
     "note": "The massive ruined stupa and the golden heart of the Old City."
   },
   {
+    "id": "day7-activity-3b",
+    "section_id": "day7",
+    "title": "Doi Suthep, Wat Suan Dok & Wat Pha Lat Tour",
+    "time": "15:40 - evening",
+    "note": "Booked GetYourGuide tour. Meet 5 minutes early at 13 Inthawarorot Rd near the temple benches."
+  },
+  {
     "id": "day7-activity-4",
     "section_id": "day7",
     "title": "Huen Phen",
@@ -205,9 +212,9 @@
   {
     "id": "day8-activity-1",
     "section_id": "day8",
-    "title": "Doi Inthanon & Elephants Tour",
-    "time": "07:15 - 18:00",
-    "note": "Highest peak in Thailand, waterfalls, and ethical elephant feeding/bathing."
+    "title": "Chiang Mai: Doi Inthanon and Elephant Sanctuary Tour",
+    "time": "Hotel pickup at 07:20",
+    "note": "Booked GetYourGuide tour with hotel pickup. Wait in the lobby 10 minutes before the confirmed pickup time."
   },
   {
     "id": "day8-activity-2",
@@ -254,9 +261,9 @@
   {
     "id": "day10-activity-1",
     "section_id": "day10",
-    "title": "Phang Nga Bay 7 Wonders Tour",
-    "time": "07:15 - 17:30",
-    "note": "Full-day speedboat tour. Includes sea canoeing, Koh Panyee floating village, and James Bond Island."
+    "title": "Phuket: 7 Wonders of Phang Nga Bay 6-Islands Tour",
+    "time": "Hotel pickup at 07:30",
+    "note": "Booked GetYourGuide speedboat day trip with hotel pickup, sea canoeing, Koh Panyee, and James Bond Island."
   },
   {
     "id": "day10-activity-2",
