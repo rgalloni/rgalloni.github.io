@@ -14,7 +14,7 @@
     "id": "intro",
     "type": "intro",
     "label": "مقدمة",
-    "page": "index_mobile.ar.html",
+    "page": "index_mobile.html",
     "tabs": [
       "context",
       "bookings"
@@ -27,7 +27,7 @@
     "label": "اليوم الأول",
     "date_label": "الجمعة 3 أبريل",
     "title": "الإمبراطورية والماء والاسترخاء",
-    "page": "day1_mobile.ar.html",
+    "page": "day1_mobile.html",
     "tabs": [
       "itinerary",
       "context",
@@ -42,7 +42,319 @@
     "label": "اليوم الثاني",
     "date_label": "السبت 4 أبريل",
     "title": "روعة العثمانية والآثار والمدينة الحديثة",
-    "page": "day2_mobile.ar.html",
+    "page": "day2_mobile.html",
+    "tabs": [
+      "itinerary",
+      "context",
+      "activities",
+      "bookings"
+    ]
+  },
+  {
+    "id": "chapter2",
+    "type": "chapter",
+    "title": "تايلاند - بانكوك",
+    "children": [
+      "intro-bkk",
+      "day3",
+      "day4",
+      "day5",
+      "day6"
+    ],
+    "label": "الفصل 2"
+  },
+  {
+    "id": "intro-bkk",
+    "type": "intro",
+    "label": "بانكوك مقدمة",
+    "tabs": [
+      "context",
+      "bookings"
+    ]
+  },
+  {
+    "id": "day3",
+    "type": "day",
+    "date": "2026-04-05",
+    "label": "اليوم 3",
+    "date_label": "الأحد 5 أبريل",
+    "title": "الوصول، بانثات ثونغ، وفوضى المدينة",
+    "tabs": [
+      "itinerary",
+      "context",
+      "activities",
+      "bookings"
+    ]
+  },
+  {
+    "id": "day4",
+    "type": "day",
+    "date": "2026-04-06",
+    "label": "اليوم الرابع",
+    "date_label": "الاثنين 6 أبريل",
+    "title": "القنوات والمعابد الملكية وICONSIAM والحي الصيني",
+    "tabs": [
+      "itinerary",
+      "context",
+      "activities",
+      "bookings"
+    ]
+  },
+  {
+    "id": "day5",
+    "type": "day",
+    "date": "2026-04-07",
+    "label": "اليوم الخامس",
+    "date_label": "الثلاثاء 7 أبريل",
+    "title": "من الأسواق العائمة إلى الآثار القديمة (وسماء الليل)",
+    "tabs": [
+      "itinerary",
+      "context",
+      "activities",
+      "bookings"
+    ]
+  },
+  {
+    "id": "day6",
+    "type": "day",
+    "date": "2026-04-08",
+    "label": "اليوم السادس",
+    "date_label": "الأربعاء 8 أبريل",
+    "title": "الحرير والتسوق والغروب والمواي تاي",
+    "tabs": [
+      "itinerary",
+      "context",
+      "activities",
+      "bookings"
+    ]
+  },
+  {
+    "id": "chapter3",
+    "type": "chapter",
+    "title": "تايلاند - شيانغ ماي",
+    "label": "الفصل 3",
+    "children": [
+      "intro-cnx",
+      "day7",
+      "day8"
+    ]
+  },
+  {
+    "id": "intro-cnx",
+    "type": "intro",
+    "label": "مقدمة شيانغ ماي",
+    "tabs": [
+      "context",
+      "bookings"
+    ]
+  },
+  {
+    "id": "day7",
+    "type": "day",
+    "date": "2026-04-09",
+    "label": "اليوم السابع",
+    "date_label": "الخميس 9 أبريل",
+    "title": "الوصول، عيد الميلاد في المدينة القديمة، والروحانية",
+    "tabs": [
+      "itinerary",
+      "context",
+      "activities",
+      "bookings"
+    ]
+  },
+  {
+    "id": "day8",
+    "type": "day",
+    "date": "2026-04-10",
+    "label": "اليوم 8",
+    "date_label": "الجمعة 10 أبريل",
+    "title": "سقف تايلاند وغابة الفيل",
+    "tabs": [
+      "itinerary",
+      "context",
+      "activities",
+      "bookings"
+    ]
+  },
+  {
+    "id": "chapter4",
+    "type": "chapter",
+    "title": "تايلاند - الجنوب",
+    "label": "الفصل 4",
+    "children": [
+      "intro-south",
+      "day9",
+      "day10",
+      "day11",
+      "day12",
+      "day13",
+      "day14"
+    ]
+  },
+  {
+    "id": "intro-south",
+    "type": "intro",
+    "label": "مقدمة الجنوب",
+    "tabs": [
+      "context",
+      "bookings"
+    ]
+  },
+  {
+    "id": "day9",
+    "type": "day",
+    "date": "2026-04-11",
+    "label": "اليوم التاسع",
+    "date_label": "السبت 11 أبريل",
+    "title": "من الشمال إلى بحر أندامان",
+    "tabs": [
+      "itinerary",
+      "context",
+      "activities",
+      "bookings"
+    ]
+  },
+  {
+    "id": "day10",
+    "type": "day",
+    "date": "2026-04-12",
+    "label": "اليوم 10",
+    "date_label": "الأحد 12 أبريل",
+    "title": "خليج فانغ نغا وجزيرة جيمس بوند",
+    "tabs": [
+      "itinerary",
+      "context",
+      "activities",
+      "bookings"
+    ]
+  },
+  {
+    "id": "day11",
+    "type": "day",
+    "date": "2026-04-13",
+    "label": "اليوم 11",
+    "date_label": "الاثنين 13 أبريل",
+    "title": "سونغكران: من الثقافة إلى الجنون التام",
+    "tabs": [
+      "itinerary",
+      "context",
+      "activities"
+    ]
+  },
+  {
+    "id": "day12",
+    "type": "day",
+    "date": "2026-04-14",
+    "label": "اليوم 12",
+    "date_label": "الثلاثاء 14 أبريل",
+    "title": "قارب سريع إلى كرابي وغروب الشمس في رايلاي",
+    "tabs": [
+      "itinerary",
+      "context",
+      "activities",
+      "bookings"
+    ]
+  },
+  {
+    "id": "day13",
+    "type": "day",
+    "date": "2026-04-15",
+    "label": "اليوم 13",
+    "date_label": "الأربعاء 15 أبريل",
+    "title": "الجزر الخاصة، وغروب الشمس، وبحر النجوم",
+    "tabs": [
+      "itinerary",
+      "context",
+      "activities",
+      "bookings"
+    ]
+  },
+  {
+    "id": "day14",
+    "type": "day",
+    "date": "2026-04-16",
+    "label": "اليوم 14",
+    "date_label": "الخميس 16 أبريل",
+    "title": "تسلق كهف النمر والعودة إلى العاصمة",
+    "tabs": [
+      "itinerary",
+      "context",
+      "activities",
+      "bookings"
+    ]
+  },
+  {
+    "id": "chapter5",
+    "type": "chapter",
+    "title": "تايلاند - العودة إلى بانكوك",
+    "label": "الفصل 5",
+    "children": [
+      "day15"
+    ]
+  },
+  {
+    "id": "day15",
+    "type": "day",
+    "date": "2026-04-17",
+    "label": "اليوم 15",
+    "date_label": "الجمعة 17 أبريل",
+    "title": "أسطح المنازل، والتناقضات، والوداع النهائي",
+    "tabs": [
+      "itinerary",
+      "context",
+      "activities",
+      "bookings"
+    ]
+  },
+  {
+    "id": "chapter6",
+    "type": "chapter",
+    "title": "الصين - توقف تشنغدو",
+    "label": "الفصل 6",
+    "children": [
+      "intro-chengdu",
+      "day16"
+    ]
+  },
+  {
+    "id": "intro-chengdu",
+    "type": "intro",
+    "label": "مقدمة تشنغدو",
+    "tabs": [
+      "context",
+      "bookings"
+    ]
+  },
+  {
+    "id": "day16",
+    "type": "day",
+    "date": "2026-04-18",
+    "label": "اليوم 16",
+    "date_label": "السبت 18 أبريل",
+    "title": "الباندا والأزقة القديمة والمقاهي",
+    "tabs": [
+      "itinerary",
+      "context",
+      "activities",
+      "bookings"
+    ]
+  },
+  {
+    "id": "chapter7",
+    "type": "chapter",
+    "title": "الصفحة الرئيسية للرحلة",
+    "label": "الفصل 7",
+    "children": [
+      "day17"
+    ]
+  },
+  {
+    "id": "day17",
+    "type": "day",
+    "date": "2026-04-19",
+    "label": "اليوم 17",
+    "date_label": "الأحد 19 أبريل",
+    "title": "توقف اسطنبول وطرق الفراق",
     "tabs": [
       "itinerary",
       "context",

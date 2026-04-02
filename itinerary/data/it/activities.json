@@ -2,29 +2,302 @@
   {
     "id": "day1-activity-1",
     "section_id": "day1",
-    "title": "Colazione turca (Kahvalti)",
+    "title": "Turkish Breakfast (Kahvalti)",
     "time": "10:30 - 11:30",
-    "note": "Pasto di recupero dopo i trasferimenti aeroportuali."
+    "note": "Recovery meal after airport transfers."
   },
   {
     "id": "day1-activity-2",
     "section_id": "day1",
-    "title": "Crociera al tramonto + Passeggiata sul Ponte di Galata",
+    "title": "Sunset Cruise + Galata Bridge Walk",
     "time": "18:00 - 21:30",
-    "note": "La migliore finestra fotografica è l'ora d'oro dal ponte del traghetto."
+    "note": "Best photo window is golden hour from the ferry deck."
   },
   {
     "id": "day2-activity-1",
     "section_id": "day2",
-    "title": "Gran Bazar + Bazar delle spezie",
+    "title": "Grand Bazaar + Spice Bazaar",
     "time": "13:00 - 15:30",
-    "note": "Shopping, snack e prodotti locali nella zona di Eminonu."
+    "note": "Shopping, snacks, and local products in Eminonu area."
   },
   {
     "id": "day2-activity-2",
     "section_id": "day2",
-    "title": "Passeggiata Galata/Istiklal/Taksim",
+    "title": "Galata / Istiklal / Taksim Walk",
     "time": "16:00 - 18:30",
-    "note": "Usa la funicolare del Tunel per saltare la ripida sezione in salita."
+    "note": "Use Tunel funicular to skip the steep uphill section."
+  },
+  {
+    "id": "day3-activity-1",
+    "section_id": "day3",
+    "title": "Banthat Thong Core Food Crawl",
+    "time": "18:30 - 21:15",
+    "note": "Start with savory first, then dessert/drink stops; check queues before committing."
+  },
+  {
+    "id": "day3-activity-2",
+    "section_id": "day3",
+    "title": "Here Duan (Thai Main Dishes)",
+    "time": "Dinner window",
+    "note": "Reddit pick for strong Thai mains; good first savory stop before sweets."
+  },
+  {
+    "id": "day3-activity-3",
+    "section_id": "day3",
+    "title": "Black Me O Boat Noodles + Khanom Thuai",
+    "time": "Dinner window",
+    "note": "Budget-friendly bowl stop (about 30 THB range reported) plus coconut pudding dessert add-on."
+  },
+  {
+    "id": "day3-activity-4",
+    "section_id": "day3",
+    "title": "Yolk (Egg Custard Cake)",
+    "time": "Late dessert slot",
+    "note": "Popular dessert stop; queues can move faster later in the evening."
+  },
+  {
+    "id": "day3-activity-5",
+    "section_id": "day3",
+    "title": "June Pang Thick Toast",
+    "time": "Late dessert slot",
+    "note": "Very filling portions; split one order to avoid sugar overload too early."
+  },
+  {
+    "id": "day3-activity-6",
+    "section_id": "day3",
+    "title": "Nueng Nom Nua Milk Drinks",
+    "time": "Dessert/drink slot",
+    "note": "Known for milk bottles and sweet drink pairings after savory stops."
+  },
+  {
+    "id": "day3-activity-7",
+    "section_id": "day3",
+    "title": "Soi Chula Side-Lane Walk",
+    "time": "Before leaving Banthat Thong",
+    "note": "Quick exploration of nearby lanes for smaller local spots and lower-key atmosphere."
+  },
+  {
+    "id": "day3-activity-8",
+    "section_id": "day3",
+    "title": "Khao San Road Bar Strip",
+    "time": "21:45 - 23:30",
+    "note": "Keep it as a walk-and-observe block with one drink stop rather than a full sit-down night."
+  },
+  {
+    "id": "day3-activity-9",
+    "section_id": "day3",
+    "title": "Patpong Night Market Pass-through",
+    "time": "23:45 - 00:30",
+    "note": "Short final neon/market pass-through near your hotel corridor."
+  },
+  {
+    "id": "day4-activity-1",
+    "section_id": "day4",
+    "title": "ICONSIAM Special Stops",
+    "time": "15:30 - 18:15",
+    "note": "SookSiam, Haus Nowhere (Sunshine), Apple terrace, ICONCRAFT and river promenade."
+  },
+  {
+    "id": "day4-activity-2",
+    "section_id": "day4",
+    "title": "Song Wat Creative Walk",
+    "time": "19:00 - 20:30",
+    "note": "Design cafes, restored shophouses, galleries, and old signage photography."
+  },
+  {
+    "id": "day4-activity-3",
+    "section_id": "day4",
+    "title": "Yaowarat Dinner + Soi Nana Bars",
+    "time": "20:30 onwards",
+    "note": "Street seafood and crispy pork first, then optional speakeasy cocktails in Chinatown Soi Nana."
+  },
+  {
+    "id": "day5-activity-1",
+    "section_id": "day5",
+    "title": "Ayutthaya, Railway & Floating Markets Full-Day Tour",
+    "time": "06:50 meeting / 07:00 start",
+    "note": "Booked GetYourGuide tour with TripGuru. Meet at MBK Center, 1st-floor entrance next to The Beef Master."
+  },
+  {
+    "id": "day5-activity-2",
+    "section_id": "day5",
+    "title": "Mahanakhon Skywalk (Night)",
+    "time": "20:00 - 21:30",
+    "note": "Go after a hotel shower. Bangkok's highest observation deck, glass floor, night city views."
+  },
+  {
+    "id": "day6-activity-1",
+    "section_id": "day6",
+    "title": "Jim Thompson House",
+    "time": "10:00 - 12:30",
+    "note": "Traditional teak architecture and the history of Thai silk."
+  },
+  {
+    "id": "day6-activity-2",
+    "section_id": "day6",
+    "title": "Siam Mega-Malls",
+    "time": "12:30 - 15:30",
+    "note": "Siam Paragon, Discovery, and CentralWorld. Great for A/C lunch."
+  },
+  {
+    "id": "day6-activity-2b",
+    "section_id": "day6",
+    "title": "Wat Ratchanatdaram (Loha Prasat)",
+    "time": "16:00 - 16:45",
+    "note": "The \"Metal Castle\" with 37 striking bronze/black spires. Right next to the Golden Mount."
+  },
+  {
+    "id": "day6-activity-3",
+    "section_id": "day6",
+    "title": "Rajadamnern Stadium (Muay Thai)",
+    "time": "18:30 - 21:30",
+    "note": "Authentic Thai boxing in the oldest, most prestigious stadium in the country."
+  },
+  {
+    "id": "day6-activity-4",
+    "section_id": "day6",
+    "title": "Thip Samai Pad Thai",
+    "time": "Post-fight dinner",
+    "note": "The legendary Pad Thai wrapped in egg, right next to Jay Fai."
+  },
+  {
+    "id": "day6-activity-5",
+    "section_id": "day6",
+    "title": "Jay Fai Spotting",
+    "time": "Post-fight dinner",
+    "note": "Walk by to see the Michelin-starred chef cooking in her signature ski goggles."
+  },
+  {
+    "id": "day7-activity-1",
+    "section_id": "day7",
+    "title": "Fern Forest Cafe",
+    "time": "11:00 - 12:30",
+    "note": "Lush, tropical cafe in the Old City. Perfect for a relaxing post-flight brunch."
+  },
+  {
+    "id": "day7-activity-2",
+    "section_id": "day7",
+    "title": "Twenty Mar",
+    "time": "14:00",
+    "note": "Sophisticated, dark aesthetic specialty coffee. 'Adults Only' - great for a quiet 'Dirty Coffee'."
+  },
+  {
+    "id": "day7-activity-3",
+    "section_id": "day7",
+    "title": "Wat Chedi Luang & Wat Phra Singh",
+    "time": "Early Afternoon",
+    "note": "The massive ruined stupa and the golden heart of the Old City."
+  },
+  {
+    "id": "day7-activity-3b",
+    "section_id": "day7",
+    "title": "Doi Suthep, Wat Suan Dok & Wat Pha Lat Tour",
+    "time": "15:40 - evening",
+    "note": "Booked GetYourGuide tour. Meet 5 minutes early at 13 Inthawarorot Rd near the temple benches."
+  },
+  {
+    "id": "day7-activity-4",
+    "section_id": "day7",
+    "title": "Huen Phen",
+    "time": "20:00 - 21:30",
+    "note": "Dinner. Eccentric dining room packed with Lanna antiques. Excellent Northern Thai food."
+  },
+  {
+    "id": "day7-activity-5",
+    "section_id": "day7",
+    "title": "North Gate Jazz Co-Op",
+    "time": "21:30 onwards",
+    "note": "Legendary, unpretentious live jazz. Grab a drink and join the crowd spilling out onto the street."
+  },
+  {
+    "id": "day8-activity-1",
+    "section_id": "day8",
+    "title": "Chiang Mai: Doi Inthanon and Elephant Sanctuary Tour",
+    "time": "Hotel pickup at 07:20",
+    "note": "Booked GetYourGuide tour with hotel pickup. Wait in the lobby 10 minutes before the confirmed pickup time."
+  },
+  {
+    "id": "day8-activity-2",
+    "section_id": "day8",
+    "title": "Khao Soi Mae Sai",
+    "time": "Dinner (Check hours)",
+    "note": "Michelin Bib Gourmand Khao Soi. Bustling local canteen vibe."
+  },
+  {
+    "id": "day8-activity-3",
+    "section_id": "day8",
+    "title": "Chiang Mai Night Bazaar",
+    "time": "20:00 onwards",
+    "note": "Massive daily night market. Check out 'Ploen Ruedee Night Market' inside for food and live music."
+  },
+  {
+    "id": "day8-activity-4",
+    "section_id": "day8",
+    "title": "Zoe in Yellow",
+    "time": "Late Night",
+    "note": "The absolute epicenter of backpacker and expat partying in the Old City."
+  },
+  {
+    "id": "day9-activity-1",
+    "section_id": "day9",
+    "title": "Freedom Beach via Longtail Boat",
+    "time": "15:30 - 18:00",
+    "note": "Hire a longtail boat from Patong Beach to reach this pristine, roadless cove. Go mid-afternoon to avoid crowds."
+  },
+  {
+    "id": "day9-activity-2",
+    "section_id": "day9",
+    "title": "Banzaan Fresh Market",
+    "time": "20:00 - 21:30",
+    "note": "Buy fresh raw seafood downstairs and have it cooked to order upstairs in the food court."
+  },
+  {
+    "id": "day9-activity-3",
+    "section_id": "day9",
+    "title": "Bangla Road Nightlife",
+    "time": "22:00 onwards",
+    "note": "The wildest street in Phuket. Neon lights, open-air beer bars, huge nightclubs, and a crazy party atmosphere."
+  },
+  {
+    "id": "day10-activity-1",
+    "section_id": "day10",
+    "title": "Phuket: 7 Wonders of Phang Nga Bay 6-Islands Tour",
+    "time": "Hotel pickup at 07:30",
+    "note": "Booked GetYourGuide speedboat day trip with hotel pickup, sea canoeing, Koh Panyee, and James Bond Island."
+  },
+  {
+    "id": "day10-activity-2",
+    "section_id": "day10",
+    "title": "Post-Boat Recovery Dinner",
+    "time": "19:30 onwards",
+    "note": "Keep it easy. Patong beachfront restaurants or a quick return to Banzaan Fresh Market."
+  },
+  {
+    "id": "day10-activity-3",
+    "section_id": "day10",
+    "title": "Aloe Vera or Foot Massage",
+    "time": "After dinner",
+    "note": "Highly recommended to soothe sunburns and relax after a long day on the water."
+  },
+  {
+    "id": "day11-activity-1",
+    "section_id": "day11",
+    "title": "Soi Romanee & Thalang Road",
+    "time": "09:00 - 11:30",
+    "note": "The most photogenic streets in Phuket Old Town. Perfect for morning photos before the heavy water fights begin."
+  },
+  {
+    "id": "day11-activity-2",
+    "section_id": "day11",
+    "title": "One Chun / Tu Kab Khao",
+    "time": "11:30 - 13:00",
+    "note": "Two incredible Michelin Bib Gourmand restaurants in Old Town specializing in Southern Thai cuisine."
+  },
+  {
+    "id": "day11-activity-3",
+    "section_id": "day11",
+    "title": "Bangla Road Water Fight",
+    "time": "14:00 - 18:00",
+    "note": "The epicenter of the Songkran madness in Patong. Absolute chaos, ice water, and loud music."
   }
 ]

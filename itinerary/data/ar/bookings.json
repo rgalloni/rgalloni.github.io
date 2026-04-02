@@ -4,32 +4,38 @@
     "section_id": "intro",
     "booking_type": "flight",
     "title": "رحلة روجيرو - وصول IST",
-    "time": "Fri, 03:40",
-    "note": "احتفظ بتأكيد الحجز وجواز السفر جاهزًا للهجرة."
+    "time": "الخميس 2 أبريل - 20:00 إلى الجمعة 3 أبريل - 03:40",
+    "pnr": "ARTLVE",
+    "ticket_number": "117-7484281226",
+    "note": "خط سير رحلة Trip.com عبر كوبنهاغن: SK688 (MXP -> CPH) وSK831 (CPH -> IST)."
   },
   {
     "id": "intro-booking-2",
     "section_id": "intro",
     "booking_type": "flight",
     "title": "رحلة أيوب - وصول SAW",
-    "time": "Fri, 06:45",
-    "note": "خطط لتسجيل الوصول عبر تطبيق WhatsApp مباشرة بعد الهبوط."
+    "time": "الجمعة، 3 أبريل - 00:05 إلى 06:45",
+    "pnr": "1STQ8E",
+    "order_number": "755242763",
+    "note": "تذكرة Kiwi.com على Pegasus PC652 من الدار البيضاء (CMN) إلى إسطنبول صبيحة كوكجن (SAW)."
   },
   {
     "id": "intro-booking-3",
     "section_id": "intro",
     "booking_type": "hotel",
     "title": "حجز بيرا أبارت",
-    "location": "السلطان أحمد / الفاتح",
-    "time": "Sultanahmet / Fatih",
-    "note": "تسليم الأمتعة في الصباح، وتسجيل الوصول القياسي في وقت لاحق من اليوم."
+    "location": "صدرفان سوكاك، فاتح، 34122 اسطنبول",
+    "time": "تسجيل الدخول 3 أبريل الساعة 14:00 / تسجيل الخروج 5 أبريل الساعة 11:00",
+    "confirmation_number": "5919.377.607",
+    "pin_code": "1213",
+    "note": "غرفة اقتصادية مزدوجة تتسع لشخصين بالغين."
   },
   {
     "id": "day1-booking-1",
     "section_id": "day1",
     "booking_type": "activity",
     "title": "دخول صهريج البازيليك",
-    "time": "14:30 slot",
+    "time": "14:30 فتحة",
     "note": "استخدم التذكرة المحجوزة مسبقًا وتصل قبل 10-15 دقيقة."
   },
   {
@@ -37,7 +43,7 @@
     "section_id": "day1",
     "booking_type": "activity",
     "title": "عبّارة البوسفور/ رحلة بحرية",
-    "time": "Around 18:00",
+    "time": "حوالي الساعة 18:00",
     "note": "اشترِ في الموقع في أمينونو؛ احتفظ ببعض النقود بالليرة التركية."
   },
   {
@@ -46,8 +52,12 @@
     "booking_type": "flight",
     "event_date": "2026-04-03",
     "title": "مطار الوصول (IST + SAW)",
-    "time": "03:40 / 06:45",
-    "note": "نلتقي بعد النقل من المطار ونواصل معًا إلى منطقة الفندق."
+    "time": "03:40 الساعة IST / 06:45 الساعة SAW",
+    "pnr": [
+      "ARTLVE",
+      "1STQ8E"
+    ],
+    "note": "روجيرو يصل عبر كوبنهاغن، وأيوب يصل مباشرة من الدار البيضاء. انضم مجددًا بعد الانتقالات من المطار واستمر في الوصول إلى منطقة الفندق."
   },
   {
     "id": "day1-booking-4",
@@ -55,17 +65,19 @@
     "booking_type": "hotel",
     "event_date": "2026-04-03",
     "overview_hotel_action": "checkin",
-    "title": "بيرا أبارت ستاي",
-    "location": "السلطان أحمد / الفاتح",
-    "time": "Check-in and rest in the afternoon",
-    "note": "القاعدة الرئيسية لأنشطة اليوم الأول واليوم الثاني."
+    "title": "بيرا أبارت تسجيل الوصول",
+    "location": "الفاتح / السلطان أحمد",
+    "time": "من الساعة 14:00",
+    "confirmation_number": "5919.377.607",
+    "pin_code": "1213",
+    "note": "قاعدة اسطنبول الرئيسية لليوم الأول واليوم الثاني."
   },
   {
     "id": "day2-booking-1",
     "section_id": "day2",
     "booking_type": "activity",
     "title": "تذاكر قصر توبكابي",
-    "time": "Morning",
+    "time": "صباح",
     "note": "الوصول إلى وقت الافتتاح لتجنب الطوابير الطويلة."
   },
   {
@@ -74,9 +86,15 @@
     "booking_type": "flight",
     "event_date": "2026-04-05",
     "show_in_daily_overview": false,
-    "title": "رحلة العودة TK68",
-    "time": "01:55 AM",
-    "note": "غادر إلى IST حوالي الساعة 21:30 للانتقال دون أي ضغوط."
+    "title": "الخطوط الجوية التركية TK68",
+    "time": "الأحد، 5 أبريل - 01:55 إلى 15:25",
+    "pnr": "WP5AW3",
+    "ticket_numbers": [
+      "2352295446610",
+      "2352295446611"
+    ],
+    "order_number": "1117-520-760",
+    "note": "رحلة ليلية طويلة من مطار إسطنبول (IST) إلى بانكوك سوفارنابومي (BKK)."
   },
   {
     "id": "day2-booking-3",
@@ -86,8 +104,411 @@
     "overview_hotel_action": "same",
     "show_in_daily_overview": false,
     "title": "بيرا أبارت (نقل الأمتعة)",
-    "location": "السلطان أحمد / الفاتح",
-    "time": "Around 21:00",
-    "note": "اجمع الحقائب قبل التوجه إلى مطار IST."
+    "location": "الفاتح / السلطان أحمد",
+    "time": "حوالي الساعة 21:00",
+    "confirmation_number": "5919.377.607",
+    "pin_code": "1213",
+    "note": "اجمع الحقائب قبل التوجه إلى مطار إسطنبول."
+  },
+  {
+    "id": "intro-bkk-booking-1",
+    "section_id": "intro-bkk",
+    "booking_type": "flight",
+    "title": "الخطوط الجوية التركية TK68 (IST -> BKK)",
+    "time": "الأحد، 5 أبريل - 01:55 إلى 15:25",
+    "pnr": "WP5AW3",
+    "ticket_numbers": [
+      "2352295446610",
+      "2352295446611"
+    ],
+    "order_number": "1117-520-760",
+    "note": "الوصول الدولي إلى بانكوك سوفارنابومي (BKK)."
+  },
+  {
+    "id": "intro-bkk-booking-2",
+    "section_id": "intro-bkk",
+    "booking_type": "hotel",
+    "title": "حجز لو ديتيل بانكوك",
+    "location": "269/1 سوانبلو سوي 6، ساثورن، بانكوك",
+    "time": "تسجيل الوصول 5 أبريل الساعة 14:00 / تسجيل المغادرة 9 أبريل الساعة 12:00 ظهرًا",
+    "confirmation_number": "5179.141.424",
+    "pin_code": "9730",
+    "note": "غرفة ديلوكس مزدوجة أو توأم تتسع لشخصين بالغين."
+  },
+  {
+    "id": "intro-bkk-booking-3",
+    "section_id": "intro-bkk",
+    "booking_type": "flight",
+    "title": "طيران آسيا التايلاندية FD8435 (DMK -> CNX)",
+    "time": "الخميس، 9 أبريل - 08:05 إلى 09:20",
+    "pnr": "M8CNPI",
+    "order_number": "729625853",
+    "note": "المرحلة التالية من الرحلة الداخلية من دون موينج إلى شيانغ ماي."
+  },
+  {
+    "id": "day3-booking-1",
+    "section_id": "day3",
+    "booking_type": "flight",
+    "event_date": "2026-04-05",
+    "title": "رحلة الوصول TK68",
+    "time": "15:25 في بانكوك",
+    "pnr": "WP5AW3",
+    "note": "الوصول من اسطنبول؛ استكمال الهجرة والنقل إلى الفندق."
+  },
+  {
+    "id": "day3-booking-2",
+    "section_id": "day3",
+    "booking_type": "hotel",
+    "event_date": "2026-04-05",
+    "overview_hotel_action": "checkin",
+    "title": "لو ديتيل بانكوك تسجيل الدخول",
+    "location": "ساثورن",
+    "time": "من الساعة 14:00",
+    "confirmation_number": "5179.141.424",
+    "pin_code": "9730",
+    "note": "قاعدة بانكوك الرئيسية في الفترة من 5 إلى 9 أبريل."
+  },
+  {
+    "id": "day5-booking-1",
+    "section_id": "day5",
+    "booking_type": "activity",
+    "title": "أيوثايا والسكك الحديدية والأسواق العائمة جولة ليوم كامل",
+    "time": "التجمع الساعة 06:50 / يبدأ الساعة 07:00",
+    "booking_reference": "GYGLMR332NZG",
+    "pin_code": "/92Nw=eR",
+    "note": "حجز GetYourGuide مع TripGuru تايلاند. نقطة الالتقاء: مركز MBK، مدخل الطابق الأول بجوار The Beef Master."
+  },
+  {
+    "id": "day6-booking-2",
+    "section_id": "day6",
+    "booking_type": "flight",
+    "event_date": "2026-04-09",
+    "show_in_daily_overview": false,
+    "title": "طيران آسيا التايلاندية FD8435 إلى شيانغ ماي",
+    "time": "08:05 من DMK / 09:20 في CNX",
+    "pnr": "M8CNPI",
+    "order_number": "729625853",
+    "note": "رحلة داخلية إلى شيانغ ماي. يمكنك الوصول إلى Don Mueang مبكرًا لتسليم الأمتعة وتسجيل الوصول."
+  },
+  {
+    "id": "day6-booking-3",
+    "section_id": "day6",
+    "booking_type": "hotel",
+    "event_date": "2026-04-09",
+    "show_in_daily_overview": false,
+    "overview_hotel_action": "checkout",
+    "title": "لو ديتيل بانكوك الخروج",
+    "location": "ساثورن",
+    "time": "بحلول الساعة 12:00 يوم 9 أبريل",
+    "confirmation_number": "5179.141.424",
+    "pin_code": "9730",
+    "note": "إنهاء الإقامة في بانكوك قبل يوم نقل شيانغ ماي."
+  },
+  {
+    "id": "intro-cnx-booking-1",
+    "section_id": "intro-cnx",
+    "booking_type": "hotel",
+    "title": "بوتيك DE LUXE وحجز على السطح",
+    "location": "2/7 زقاق سينغارات 1، سي فوم، شيانغ ماي",
+    "time": "تسجيل الوصول 9 أبريل من الساعة 14:00 / تسجيل المغادرة 11 أبريل بحلول الساعة 12:00",
+    "confirmation_number": "5179.196.465",
+    "pin_code": "6976",
+    "note": "غرفة قياسية مزدوجة تتسع لشخصين بالغين."
+  },
+  {
+    "id": "day7-booking-1",
+    "section_id": "day7",
+    "booking_type": "activity",
+    "title": "جولة دوي سوثيب ووات سوان دوك ووات فا لات",
+    "time": "مفتوح من الساعة 15:40 إلى الساعة 15:45",
+    "event_date": "2026-04-09",
+    "booking_reference": "GYGVN3BMYF3Q",
+    "pin_code": "zLsaLsE#",
+    "note": "حجز GetYourGuide. اجتمع مبكرًا بخمس دقائق في 13 طريق Inthawarorot؛ ينتظر المرشد بالقرب من مقاعد المعبد."
+  },
+  {
+    "id": "day7-booking-2",
+    "section_id": "day7",
+    "booking_type": "hotel",
+    "event_date": "2026-04-09",
+    "overview_hotel_action": "checkin",
+    "title": "فندق DE LUXE BOUTIQUE وتسجيل الوصول على السطح",
+    "location": "سي فوم، شيانغ ماي",
+    "time": "من الساعة 14:00",
+    "confirmation_number": "5179.196.465",
+    "pin_code": "6976",
+    "note": "قاعدة شيانغ ماي في الفترة من 9 إلى 11 أبريل."
+  },
+  {
+    "id": "day8-booking-1",
+    "section_id": "day8",
+    "booking_type": "activity",
+    "title": "شيانغ ماي: جولة دوي إنتانون ومحمية الفيلة",
+    "time": "النقل من الفندق الساعة 07:20",
+    "event_date": "2026-04-10",
+    "booking_reference": "GYG7VK2VQHQN",
+    "pin_code": "Yv69MkPd",
+    "note": "حجز GetYourGuide مع PON ELEPHANT. انتظر في بهو الفندق قبل 10 دقائق من موعد الاستلام."
+  },
+  {
+    "id": "intro-south-booking-1",
+    "section_id": "intro-south",
+    "booking_type": "flight",
+    "title": "التايلاندية فيتجيت VZ414 (CNX -> HKT)",
+    "time": "السبت 11 أبريل - 10:55 إلى 13:05",
+    "pnr": "T9ZGGV",
+    "order_number": "755645099",
+    "note": "رحلات جوية من شيانغ ماي إلى بوكيت."
+  },
+  {
+    "id": "intro-south-booking-2",
+    "section_id": "intro-south",
+    "booking_type": "hotel",
+    "title": "كورتيارد باي ماريوت بوكيت، منتجع باتونج بيتش",
+    "location": "44 طريق ثافيونج، شاطئ باتونج، بوكيت",
+    "time": "تسجيل الوصول 11 أبريل الساعة 15:00 / تسجيل المغادرة 14 أبريل الساعة 12:00",
+    "confirmation_number": "73409985839683",
+    "note": "خط سير رحلة Expedia لمدة 3 ليالٍ، سرير مزدوج كبير."
+  },
+  {
+    "id": "intro-south-booking-3",
+    "section_id": "intro-south",
+    "booking_type": "hotel",
+    "title": "حجز منتجع وسبا فو فا أونانج",
+    "location": "395 مو 2 سوي 13، أو نانج، كرابي",
+    "time": "تسجيل الوصول 14 أبريل الساعة 14:00 / تسجيل المغادرة 16 أبريل الساعة 12:00",
+    "confirmation_number": "5852.139.305",
+    "pin_code": "4235",
+    "note": "غرفة سوبيريور في الطابق الأرضي تتسع لشخصين بالغين."
+  },
+  {
+    "id": "intro-south-booking-4",
+    "section_id": "intro-south",
+    "booking_type": "flight",
+    "event_date": "2026-04-16",
+    "title": "طيران آسيا التايلاندية FD3218 (KBV -> DMK)",
+    "time": "الخميس، 16 أبريل - 20:45 إلى 22:15",
+    "pnr": "LY692P",
+    "order_number": "755642250",
+    "note": "رحلة داخلية مسائية من كرابي إلى بانكوك دون موينج."
+  },
+  {
+    "id": "intro-south-booking-5",
+    "section_id": "intro-south",
+    "booking_type": "hotel",
+    "title": "حجز فندق أمارا بانكوك",
+    "location": "180/1 طريق سوراونج، بانج راك، بانكوك",
+    "time": "تسجيل الوصول 16 أبريل الساعة 15:00 / تسجيل المغادرة 17 أبريل الساعة 12:00",
+    "confirmation_number": "5184.016.480",
+    "pin_code": "4757",
+    "note": "غرفة ديلوكس توأم لشخصين بالغين."
+  },
+  {
+    "id": "intro-south-booking-6",
+    "section_id": "intro-south",
+    "booking_type": "flight",
+    "event_date": "2026-04-18",
+    "title": "خطوط سيتشوان الجوية (BKK -> TFU -> IST)",
+    "time": "السبت 18 أبريل - 01:10 إلى الأحد 19 أبريل - 06:30",
+    "pnr": "MJSJCD",
+    "ticket_numbers": [
+      "876-5017103415",
+      "876-5017103414"
+    ],
+    "note": "مسار العودة الليلية: 3U3938 بانكوك -> تشنغدو و3U3827 تشنغدو -> إسطنبول."
+  },
+  {
+    "id": "intro-south-booking-7",
+    "section_id": "intro-south",
+    "booking_type": "flight",
+    "event_date": "2026-04-19",
+    "title": "رحلة روجيرو - IST إلى MXP",
+    "time": "الأحد 19 أبريل - 15:45 إلى 20:05",
+    "pnr": "LDIDTX",
+    "ticket_number": "115-6327181961",
+    "note": "خط سير رحلة Trip.com عبر بلغراد: JU423 (IST -> BEG) وJU418 (BEG -> MXP)."
+  },
+  {
+    "id": "intro-south-booking-8",
+    "section_id": "intro-south",
+    "booking_type": "flight",
+    "event_date": "2026-04-19",
+    "title": "رحلة أيوب - IST إلى رأس الخيمة",
+    "time": "الأحد، 19 أبريل - من 12:25 إلى 15:40",
+    "pnr": "WBUFWH",
+    "ticket_number": "235-2295361962",
+    "note": "الخطوط الجوية التركية TK619 من اسطنبول إلى مراكش."
+  },
+  {
+    "id": "day9-booking-1",
+    "section_id": "day9",
+    "booking_type": "flight",
+    "title": "التايلاندية Vietjet VZ414 إلى فوكيت",
+    "time": "10:55 من CNX / 13:05 في HKT",
+    "event_date": "2026-04-11",
+    "pnr": "T9ZGGV",
+    "order_number": "755645099",
+    "note": "رحلة مباشرة من شيانغ ماي إلى بوكيت."
+  },
+  {
+    "id": "day9-booking-2",
+    "section_id": "day9",
+    "booking_type": "hotel",
+    "event_date": "2026-04-11",
+    "overview_hotel_action": "checkin",
+    "title": "كورتيارد باي ماريوت بوكيت تسجيل الدخول",
+    "location": "شاطئ باتونج، بوكيت",
+    "time": "من الساعة 15:00",
+    "confirmation_number": "73409985839683",
+    "note": "قاعدة بوكيت حتى 14 أبريل."
+  },
+  {
+    "id": "day10-booking-1",
+    "section_id": "day10",
+    "booking_type": "activity",
+    "title": "فوكيت: جولة عجائب خليج فانغ نجا السبعة في الجزر الست",
+    "time": "الاستقبال في الفندق الساعة 07:30",
+    "event_date": "2026-04-12",
+    "booking_reference": "GYGBLHRG5WQM",
+    "pin_code": "H3Lpu9Sr",
+    "note": "احصل على حجز GetYourGuide مع جولة Go Thai Adventures Tour. انتظر في بهو الفندق لالتقاط السيارة."
+  },
+  {
+    "id": "day12-booking-1",
+    "section_id": "day12",
+    "booking_type": "hotel",
+    "event_date": "2026-04-14",
+    "overview_hotel_action": "checkout",
+    "show_in_daily_overview": false,
+    "title": "كورتيارد باي ماريوت بوكيت تشيك أوت",
+    "location": "شاطئ باتونج، بوكيت",
+    "time": "بحلول الساعة 12:00 يوم 14 أبريل",
+    "confirmation_number": "73409985839683",
+    "note": "قم بتسجيل المغادرة قبل التوجه إلى الرصيف المتجه إلى كرابي."
+  },
+  {
+    "id": "day12-booking-2",
+    "section_id": "day12",
+    "booking_type": "hotel",
+    "event_date": "2026-04-14",
+    "overview_hotel_action": "checkin",
+    "title": "تسجيل الوصول في منتجع وسبا فو فا أونانج",
+    "location": "أو نانج، كرابي",
+    "time": "من الساعة 14:00",
+    "confirmation_number": "5852.139.305",
+    "pin_code": "4235",
+    "note": "قاعدة كرابي حتى 16 أبريل."
+  },
+  {
+    "id": "day14-booking-1",
+    "section_id": "day14",
+    "booking_type": "hotel",
+    "event_date": "2026-04-16",
+    "overview_hotel_action": "checkout",
+    "show_in_daily_overview": false,
+    "title": "الخروج من منتجع وسبا فو فا أونانج",
+    "location": "أو نانج، كرابي",
+    "time": "بحلول الساعة 12:00 يوم 16 أبريل",
+    "confirmation_number": "5852.139.305",
+    "pin_code": "4235",
+    "note": "قم بتسجيل المغادرة وترك الأمتعة في مكتب الاستقبال قبل رحلة المساء."
+  },
+  {
+    "id": "day14-booking-2",
+    "section_id": "day14",
+    "booking_type": "flight",
+    "event_date": "2026-04-16",
+    "title": "طيران آسيا التايلاندية FD3218 (KBV إلى DMK)",
+    "time": "20:45 من KBV / 22:15 في DMK",
+    "pnr": "LY692P",
+    "order_number": "755642250",
+    "note": "رحلة العودة المسائية إلى بانكوك دون موينج."
+  },
+  {
+    "id": "day14-booking-3",
+    "section_id": "day14",
+    "booking_type": "hotel",
+    "event_date": "2026-04-16",
+    "overview_hotel_action": "checkin",
+    "show_in_daily_overview": false,
+    "title": "تسجيل الدخول في فندق أمارا بانكوك",
+    "location": "بانج راك، بانكوك",
+    "time": "تسجيل الوصول في وقت متأخر من الليل",
+    "confirmation_number": "5184.016.480",
+    "pin_code": "4757",
+    "note": "القاعدة النهائية في بانكوك."
+  },
+  {
+    "id": "day15-booking-1",
+    "section_id": "day15",
+    "booking_type": "hotel",
+    "event_date": "2026-04-17",
+    "overview_hotel_action": "checkout",
+    "title": "الخروج من فندق أمارا بانكوك",
+    "location": "بانج راك، بانكوك",
+    "time": "بحلول الساعة 12:00 يوم 17 أبريل",
+    "confirmation_number": "5184.016.480",
+    "pin_code": "4757",
+    "note": "اترك الأمتعة مع الكونسيرج حتى المغادرة المسائية."
+  },
+  {
+    "id": "day15-booking-2",
+    "section_id": "day15",
+    "booking_type": "flight",
+    "event_date": "2026-04-17",
+    "title": "خطوط سيتشوان الجوية 3U3938 المغادرة",
+    "time": "السبت 18 أبريل - 01:10 (المغادرة إلى المطار في أواخر 17 أبريل)",
+    "pnr": "MJSJCD",
+    "ticket_numbers": [
+      "876-5017103415",
+      "876-5017103414"
+    ],
+    "note": "رحلة بين عشية وضحاها إلى تشنغدو. كن في مطار سوفارنابومي (BKK) حوالي الساعة 22:00."
+  },
+  {
+    "id": "day16-booking-1",
+    "section_id": "day16",
+    "booking_type": "flight",
+    "event_date": "2026-04-18",
+    "title": "خطوط سيتشوان الجوية (BKK -> TFU -> IST)",
+    "time": "الوصول إلى TFU حوالي الساعة 05:30 / مغادرة TFU على 3U3827 في وقت متأخر من الليل",
+    "pnr": "MJSJCD",
+    "ticket_numbers": [
+      "876-5017103415",
+      "876-5017103414"
+    ],
+    "note": "توقف تشنغدو. اتبع عملية الإعفاء من العبور لمدة 24/144 ساعة."
+  },
+  {
+    "id": "day17-booking-1",
+    "section_id": "day17",
+    "booking_type": "flight",
+    "event_date": "2026-04-19",
+    "title": "الوصول إلى إسطنبول (IST)",
+    "time": "06:30 بتوقيت الهند",
+    "pnr": "MJSJCD",
+    "note": "الوصول من تشنغدو على متن خطوط سيتشوان الجوية 3U3827."
+  },
+  {
+    "id": "day17-booking-2",
+    "section_id": "day17",
+    "booking_type": "flight",
+    "event_date": "2026-04-19",
+    "title": "رحلة أيوب - IST إلى رأس الخيمة",
+    "time": "12:25 من بتوقيت الهند / 15:40 من رأس الخيمة",
+    "pnr": "WBUFWH",
+    "ticket_number": "235-2295361962",
+    "note": "الخطوط الجوية التركية TK619 مباشرة إلى مراكش."
+  },
+  {
+    "id": "day17-booking-3",
+    "section_id": "day17",
+    "booking_type": "flight",
+    "event_date": "2026-04-19",
+    "title": "رحلة روجيرو - IST إلى MXP",
+    "time": "15:45 بتوقيت الهند / 20:05 بتوقيت MXP",
+    "pnr": "LDIDTX",
+    "ticket_number": "115-6327181961",
+    "note": "الخطوط الجوية الصربية JU423 عبر بلغراد إلى ميلان مالبينسا."
   }
 ]

@@ -3,51 +3,61 @@
     "id": "intro-booking-1",
     "section_id": "intro",
     "booking_type": "flight",
-    "title": "Volo Ruggero - Arrivo IST",
-    "time": "Fri, 03:40",
-    "note": "Tieni la conferma della prenotazione e il passaporto pronti per l'immigrazione."
+    "title": "Ruggero Flight - IST Arrival",
+    "time": "Thu, Apr 2 - 20:00 to Fri, Apr 3 - 03:40",
+    "pnr": "ARTLVE",
+    "ticket_number": "117-7484281226",
+    "note": "Trip.com itinerary via Copenhagen: SK688 (MXP -> CPH) and SK831 (CPH -> IST)."
   },
   {
     "id": "intro-booking-2",
     "section_id": "intro",
     "booking_type": "flight",
-    "title": "Volo Ayoub - Arrivo SAW",
-    "time": "Fri, 06:45",
-    "note": "Pianifica il check-in su WhatsApp subito dopo l'atterraggio."
+    "title": "Ayoub Flight - SAW Arrival",
+    "time": "Fri, Apr 3 - 00:05 to 06:45",
+    "pnr": "1STQ8E",
+    "order_number": "755242763",
+    "note": "Kiwi.com ticket on Pegasus PC652 from Casablanca (CMN) to Istanbul Sabiha Gokcen (SAW)."
   },
   {
     "id": "intro-booking-3",
     "section_id": "intro",
     "booking_type": "hotel",
-    "title": "Prenotazione Pera Apart",
-    "location": "Sultanahmet/Fatih",
-    "time": "Sultanahmet / Fatih",
-    "note": "Deposito bagagli al mattino, check-in standard più tardi nel corso della giornata."
+    "title": "Pera Apart Reservation",
+    "location": "Sadirvan Sokak, Fatih, 34122 Istanbul",
+    "time": "Check-in Apr 3 from 14:00 / Check-out Apr 5 by 11:00",
+    "confirmation_number": "5919.377.607",
+    "pin_code": "1213",
+    "note": "Budget Double Room for 2 adults."
   },
   {
     "id": "day1-booking-1",
     "section_id": "day1",
     "booking_type": "activity",
-    "title": "Ingresso alla Cisterna Basilica",
+    "title": "Basilica Cistern Entry",
     "time": "14:30 slot",
-    "note": "Utilizza il biglietto prenotato in anticipo e arriva 10-15 minuti prima."
+    "note": "Use prebooked ticket and arrive 10-15 minutes earlier."
   },
   {
     "id": "day1-booking-2",
     "section_id": "day1",
     "booking_type": "activity",
-    "title": "Traghetto/crociera sul Bosforo",
+    "title": "Bosphorus Ferry / Cruise",
     "time": "Around 18:00",
-    "note": "Acquista sul posto su Eminonu; tieni un po' di contanti in TRY."
+    "note": "Buy on site at Eminonu; keep some cash in TRY."
   },
   {
     "id": "day1-booking-3",
     "section_id": "day1",
     "booking_type": "flight",
     "event_date": "2026-04-03",
-    "title": "Arrivi aeroportuali (IST + SAW)",
-    "time": "03:40 / 06:45",
-    "note": "Incontro dopo il trasferimento in aeroporto e proseguimento insieme verso la zona dell'hotel."
+    "title": "Airport Arrivals (IST + SAW)",
+    "time": "03:40 at IST / 06:45 at SAW",
+    "pnr": [
+      "ARTLVE",
+      "1STQ8E"
+    ],
+    "note": "Ruggero arrives via Copenhagen, Ayoub arrives direct from Casablanca. Rejoin after airport transfers and continue to the hotel area."
   },
   {
     "id": "day1-booking-4",
@@ -55,18 +65,20 @@
     "booking_type": "hotel",
     "event_date": "2026-04-03",
     "overview_hotel_action": "checkin",
-    "title": "Pera Apart Soggiorno",
-    "location": "Sultanahmet/Fatih",
-    "time": "Check-in and rest in the afternoon",
-    "note": "Base principale per le attività del Giorno 1 e del Giorno 2."
+    "title": "Pera Apart Check-in",
+    "location": "Fatih / Sultanahmet",
+    "time": "From 14:00",
+    "confirmation_number": "5919.377.607",
+    "pin_code": "1213",
+    "note": "Main Istanbul base for Day 1 and Day 2."
   },
   {
     "id": "day2-booking-1",
     "section_id": "day2",
     "booking_type": "activity",
-    "title": "Biglietti per il Palazzo Topkapi",
+    "title": "Topkapi Palace Tickets",
     "time": "Morning",
-    "note": "Arrivare all'orario di apertura per evitare lunghe file."
+    "note": "Arrive at opening time to avoid long lines."
   },
   {
     "id": "day2-booking-2",
@@ -74,9 +86,15 @@
     "booking_type": "flight",
     "event_date": "2026-04-05",
     "show_in_daily_overview": false,
-    "title": "Volo di ritorno TK68",
-    "time": "01:55 AM",
-    "note": "Parti per l'IST intorno alle 21:30 per un trasferimento senza stress."
+    "title": "Turkish Airlines TK68",
+    "time": "Sun, Apr 5 - 01:55 to 15:25",
+    "pnr": "WP5AW3",
+    "ticket_numbers": [
+      "2352295446610",
+      "2352295446611"
+    ],
+    "order_number": "1117-520-760",
+    "note": "Overnight long-haul from Istanbul Airport (IST) to Bangkok Suvarnabhumi (BKK)."
   },
   {
     "id": "day2-booking-3",
@@ -85,9 +103,412 @@
     "event_date": "2026-04-04",
     "overview_hotel_action": "same",
     "show_in_daily_overview": false,
-    "title": "Pera Apart (ritiro bagagli)",
-    "location": "Sultanahmet/Fatih",
+    "title": "Pera Apart (Luggage Pickup)",
+    "location": "Fatih / Sultanahmet",
     "time": "Around 21:00",
-    "note": "Raccogli i bagagli prima di dirigerti all'aeroporto IST."
+    "confirmation_number": "5919.377.607",
+    "pin_code": "1213",
+    "note": "Collect bags before heading to Istanbul Airport."
+  },
+  {
+    "id": "intro-bkk-booking-1",
+    "section_id": "intro-bkk",
+    "booking_type": "flight",
+    "title": "Turkish Airlines TK68 (IST -> BKK)",
+    "time": "Sun, Apr 5 - 01:55 to 15:25",
+    "pnr": "WP5AW3",
+    "ticket_numbers": [
+      "2352295446610",
+      "2352295446611"
+    ],
+    "order_number": "1117-520-760",
+    "note": "International arrival into Bangkok Suvarnabhumi (BKK)."
+  },
+  {
+    "id": "intro-bkk-booking-2",
+    "section_id": "intro-bkk",
+    "booking_type": "hotel",
+    "title": "Le D'Tel Bangkok Reservation",
+    "location": "269/1 Suanplu Soi 6, Sathorn, Bangkok",
+    "time": "Check-in Apr 5 from 14:00 / Check-out Apr 9 by 12:00",
+    "confirmation_number": "5179.141.424",
+    "pin_code": "9730",
+    "note": "Deluxe Double or Twin Room for 2 adults."
+  },
+  {
+    "id": "intro-bkk-booking-3",
+    "section_id": "intro-bkk",
+    "booking_type": "flight",
+    "title": "Thai AirAsia FD8435 (DMK -> CNX)",
+    "time": "Thu, Apr 9 - 08:05 to 09:20",
+    "pnr": "M8CNPI",
+    "order_number": "729625853",
+    "note": "Next-leg domestic flight from Don Mueang to Chiang Mai."
+  },
+  {
+    "id": "day3-booking-1",
+    "section_id": "day3",
+    "booking_type": "flight",
+    "event_date": "2026-04-05",
+    "title": "Arrival Flight TK68",
+    "time": "15:25 at BKK",
+    "pnr": "WP5AW3",
+    "note": "Arrival from Istanbul; complete immigration and transfer to hotel."
+  },
+  {
+    "id": "day3-booking-2",
+    "section_id": "day3",
+    "booking_type": "hotel",
+    "event_date": "2026-04-05",
+    "overview_hotel_action": "checkin",
+    "title": "Le D'Tel Bangkok Check-in",
+    "location": "Sathorn",
+    "time": "From 14:00",
+    "confirmation_number": "5179.141.424",
+    "pin_code": "9730",
+    "note": "Main Bangkok base for Apr 5-9."
+  },
+  {
+    "id": "day5-booking-1",
+    "section_id": "day5",
+    "booking_type": "activity",
+    "title": "Ayutthaya, Railway & Floating Markets Full-Day Tour",
+    "time": "Meet by 06:50 / starts 07:00",
+    "booking_reference": "GYGLMR332NZG",
+    "pin_code": "/92Nw=eR",
+    "note": "GetYourGuide booking with TripGuru Thailand. Meeting point: MBK Center, 1st-floor entrance next to The Beef Master."
+  },
+  {
+    "id": "day6-booking-2",
+    "section_id": "day6",
+    "booking_type": "flight",
+    "event_date": "2026-04-09",
+    "show_in_daily_overview": false,
+    "title": "Thai AirAsia FD8435 to Chiang Mai",
+    "time": "08:05 from DMK / 09:20 at CNX",
+    "pnr": "M8CNPI",
+    "order_number": "729625853",
+    "note": "Domestic flight to Chiang Mai. Arrive at Don Mueang early for bag drop and check-in."
+  },
+  {
+    "id": "day6-booking-3",
+    "section_id": "day6",
+    "booking_type": "hotel",
+    "event_date": "2026-04-09",
+    "show_in_daily_overview": false,
+    "overview_hotel_action": "checkout",
+    "title": "Le D'Tel Bangkok Checkout",
+    "location": "Sathorn",
+    "time": "By 12:00 on Apr 9",
+    "confirmation_number": "5179.141.424",
+    "pin_code": "9730",
+    "note": "Finish Bangkok stay before the Chiang Mai transfer day."
+  },
+  {
+    "id": "intro-cnx-booking-1",
+    "section_id": "intro-cnx",
+    "booking_type": "hotel",
+    "title": "DE LUXE BOUTIQUE & rooftop Reservation",
+    "location": "2/7 Singharat Alley 1, Si Phum, Chiang Mai",
+    "time": "Check-in Apr 9 from 14:00 / Check-out Apr 11 by 12:00",
+    "confirmation_number": "5179.196.465",
+    "pin_code": "6976",
+    "note": "Standard Double Room for 2 adults."
+  },
+  {
+    "id": "day7-booking-1",
+    "section_id": "day7",
+    "booking_type": "activity",
+    "title": "Doi Suthep, Wat Suan Dok & Wat Pha Lat Tour",
+    "time": "Open from 15:40 to 15:45",
+    "event_date": "2026-04-09",
+    "booking_reference": "GYGVN3BMYF3Q",
+    "pin_code": "zLsaLsE#",
+    "note": "GetYourGuide booking. Meet 5 minutes early at 13 Inthawarorot Rd; the guide waits near the temple benches."
+  },
+  {
+    "id": "day7-booking-2",
+    "section_id": "day7",
+    "booking_type": "hotel",
+    "event_date": "2026-04-09",
+    "overview_hotel_action": "checkin",
+    "title": "DE LUXE BOUTIQUE & rooftop Check-in",
+    "location": "Si Phum, Chiang Mai",
+    "time": "From 14:00",
+    "confirmation_number": "5179.196.465",
+    "pin_code": "6976",
+    "note": "Chiang Mai base for Apr 9-11."
+  },
+  {
+    "id": "day8-booking-1",
+    "section_id": "day8",
+    "booking_type": "activity",
+    "title": "Chiang Mai: Doi Inthanon and Elephant Sanctuary Tour",
+    "time": "Hotel pickup at 07:20",
+    "event_date": "2026-04-10",
+    "booking_reference": "GYG7VK2VQHQN",
+    "pin_code": "Yv69MkPd",
+    "note": "GetYourGuide booking with PON ELEPHANT. Wait in the hotel lobby 10 minutes before pickup."
+  },
+  {
+    "id": "intro-south-booking-1",
+    "section_id": "intro-south",
+    "booking_type": "flight",
+    "title": "Thai Vietjet VZ414 (CNX -> HKT)",
+    "time": "Sat, Apr 11 - 10:55 to 13:05",
+    "pnr": "T9ZGGV",
+    "order_number": "755645099",
+    "note": "Flight from Chiang Mai to Phuket."
+  },
+  {
+    "id": "intro-south-booking-2",
+    "section_id": "intro-south",
+    "booking_type": "hotel",
+    "title": "Courtyard by Marriott Phuket, Patong Beach Resort",
+    "location": "44 Thaveewong Road, Patong Beach, Phuket",
+    "time": "Check-in Apr 11 from 15:00 / Check-out Apr 14 by 12:00",
+    "confirmation_number": "73409985839683",
+    "note": "Expedia itinerary for 3 nights, 1 King Bed."
+  },
+  {
+    "id": "intro-south-booking-3",
+    "section_id": "intro-south",
+    "booking_type": "hotel",
+    "title": "Phu Pha Aonang Resort & Spa Reservation",
+    "location": "395 Moo 2 Soi 13, Ao Nang, Krabi",
+    "time": "Check-in Apr 14 from 14:00 / Check-out Apr 16 by 12:00",
+    "confirmation_number": "5852.139.305",
+    "pin_code": "4235",
+    "note": "Superior Ground Floor room for 2 adults."
+  },
+  {
+    "id": "intro-south-booking-4",
+    "section_id": "intro-south",
+    "booking_type": "flight",
+    "event_date": "2026-04-16",
+    "title": "Thai AirAsia FD3218 (KBV -> DMK)",
+    "time": "Thu, Apr 16 - 20:45 to 22:15",
+    "pnr": "LY692P",
+    "order_number": "755642250",
+    "note": "Evening domestic flight from Krabi to Bangkok Don Mueang."
+  },
+  {
+    "id": "intro-south-booking-5",
+    "section_id": "intro-south",
+    "booking_type": "hotel",
+    "title": "Amara Bangkok Hotel Reservation",
+    "location": "180/1 Surawong Road, Bang Rak, Bangkok",
+    "time": "Check-in Apr 16 from 15:00 / Check-out Apr 17 by 12:00",
+    "confirmation_number": "5184.016.480",
+    "pin_code": "4757",
+    "note": "Deluxe Twin Room for 2 adults."
+  },
+  {
+    "id": "intro-south-booking-6",
+    "section_id": "intro-south",
+    "booking_type": "flight",
+    "event_date": "2026-04-18",
+    "title": "Sichuan Airlines (BKK -> TFU -> IST)",
+    "time": "Sat, Apr 18 - 01:10 to Sun, Apr 19 - 06:30",
+    "pnr": "MJSJCD",
+    "ticket_numbers": [
+      "876-5017103415",
+      "876-5017103414"
+    ],
+    "note": "Overnight return routing: 3U3938 Bangkok -> Chengdu and 3U3827 Chengdu -> Istanbul."
+  },
+  {
+    "id": "intro-south-booking-7",
+    "section_id": "intro-south",
+    "booking_type": "flight",
+    "event_date": "2026-04-19",
+    "title": "Ruggero Flight - IST to MXP",
+    "time": "Sun, Apr 19 - 15:45 to 20:05",
+    "pnr": "LDIDTX",
+    "ticket_number": "115-6327181961",
+    "note": "Trip.com itinerary via Belgrade: JU423 (IST -> BEG) and JU418 (BEG -> MXP)."
+  },
+  {
+    "id": "intro-south-booking-8",
+    "section_id": "intro-south",
+    "booking_type": "flight",
+    "event_date": "2026-04-19",
+    "title": "Ayoub Flight - IST to RAK",
+    "time": "Sun, Apr 19 - 12:25 to 15:40",
+    "pnr": "WBUFWH",
+    "ticket_number": "235-2295361962",
+    "note": "Turkish Airlines TK619 from Istanbul to Marrakech."
+  },
+  {
+    "id": "day9-booking-1",
+    "section_id": "day9",
+    "booking_type": "flight",
+    "title": "Thai Vietjet VZ414 to Phuket",
+    "time": "10:55 from CNX / 13:05 at HKT",
+    "event_date": "2026-04-11",
+    "pnr": "T9ZGGV",
+    "order_number": "755645099",
+    "note": "Direct flight from Chiang Mai to Phuket."
+  },
+  {
+    "id": "day9-booking-2",
+    "section_id": "day9",
+    "booking_type": "hotel",
+    "event_date": "2026-04-11",
+    "overview_hotel_action": "checkin",
+    "title": "Courtyard by Marriott Phuket Check-in",
+    "location": "Patong Beach, Phuket",
+    "time": "From 15:00",
+    "confirmation_number": "73409985839683",
+    "note": "Phuket base through Apr 14."
+  },
+  {
+    "id": "day10-booking-1",
+    "section_id": "day10",
+    "booking_type": "activity",
+    "title": "Phuket: 7 Wonders of Phang Nga Bay 6-Islands Tour",
+    "time": "Hotel pickup at 07:30",
+    "event_date": "2026-04-12",
+    "booking_reference": "GYGBLHRG5WQM",
+    "pin_code": "H3Lpu9Sr",
+    "note": "GetYourGuide booking with Go Thailand Adventures Tour. Wait in the hotel lobby for pickup."
+  },
+  {
+    "id": "day12-booking-1",
+    "section_id": "day12",
+    "booking_type": "hotel",
+    "event_date": "2026-04-14",
+    "overview_hotel_action": "checkout",
+    "show_in_daily_overview": false,
+    "title": "Courtyard by Marriott Phuket Checkout",
+    "location": "Patong Beach, Phuket",
+    "time": "By 12:00 on Apr 14",
+    "confirmation_number": "73409985839683",
+    "note": "Check out before heading to the pier for Krabi."
+  },
+  {
+    "id": "day12-booking-2",
+    "section_id": "day12",
+    "booking_type": "hotel",
+    "event_date": "2026-04-14",
+    "overview_hotel_action": "checkin",
+    "title": "Phu Pha Aonang Resort & Spa Check-in",
+    "location": "Ao Nang, Krabi",
+    "time": "From 14:00",
+    "confirmation_number": "5852.139.305",
+    "pin_code": "4235",
+    "note": "Krabi base through Apr 16."
+  },
+  {
+    "id": "day14-booking-1",
+    "section_id": "day14",
+    "booking_type": "hotel",
+    "event_date": "2026-04-16",
+    "overview_hotel_action": "checkout",
+    "show_in_daily_overview": false,
+    "title": "Phu Pha Aonang Resort & Spa Checkout",
+    "location": "Ao Nang, Krabi",
+    "time": "By 12:00 on Apr 16",
+    "confirmation_number": "5852.139.305",
+    "pin_code": "4235",
+    "note": "Check out and leave luggage at reception before the evening flight."
+  },
+  {
+    "id": "day14-booking-2",
+    "section_id": "day14",
+    "booking_type": "flight",
+    "event_date": "2026-04-16",
+    "title": "Thai AirAsia FD3218 (KBV to DMK)",
+    "time": "20:45 from KBV / 22:15 at DMK",
+    "pnr": "LY692P",
+    "order_number": "755642250",
+    "note": "Evening flight back to Bangkok Don Mueang."
+  },
+  {
+    "id": "day14-booking-3",
+    "section_id": "day14",
+    "booking_type": "hotel",
+    "event_date": "2026-04-16",
+    "overview_hotel_action": "checkin",
+    "show_in_daily_overview": false,
+    "title": "Amara Bangkok Hotel Check-in",
+    "location": "Bang Rak, Bangkok",
+    "time": "Late night check-in",
+    "confirmation_number": "5184.016.480",
+    "pin_code": "4757",
+    "note": "Final base in Bangkok."
+  },
+  {
+    "id": "day15-booking-1",
+    "section_id": "day15",
+    "booking_type": "hotel",
+    "event_date": "2026-04-17",
+    "overview_hotel_action": "checkout",
+    "title": "Amara Bangkok Hotel Checkout",
+    "location": "Bang Rak, Bangkok",
+    "time": "By 12:00 on Apr 17",
+    "confirmation_number": "5184.016.480",
+    "pin_code": "4757",
+    "note": "Leave luggage with the concierge until the evening departure."
+  },
+  {
+    "id": "day15-booking-2",
+    "section_id": "day15",
+    "booking_type": "flight",
+    "event_date": "2026-04-17",
+    "title": "Sichuan Airlines 3U3938 Departure",
+    "time": "Sat, Apr 18 - 01:10 (Depart for Airport late Apr 17)",
+    "pnr": "MJSJCD",
+    "ticket_numbers": [
+      "876-5017103415",
+      "876-5017103414"
+    ],
+    "note": "Overnight flight to Chengdu. Be at Suvarnabhumi Airport (BKK) around 22:00."
+  },
+  {
+    "id": "day16-booking-1",
+    "section_id": "day16",
+    "booking_type": "flight",
+    "event_date": "2026-04-18",
+    "title": "Sichuan Airlines (BKK -> TFU -> IST)",
+    "time": "Arrive TFU around 05:30 / Depart TFU on 3U3827 late night",
+    "pnr": "MJSJCD",
+    "ticket_numbers": [
+      "876-5017103415",
+      "876-5017103414"
+    ],
+    "note": "Chengdu layover. Follow the 24/144-Hour Transit Exemption process."
+  },
+  {
+    "id": "day17-booking-1",
+    "section_id": "day17",
+    "booking_type": "flight",
+    "event_date": "2026-04-19",
+    "title": "Arrival in Istanbul (IST)",
+    "time": "06:30 at IST",
+    "pnr": "MJSJCD",
+    "note": "Arrival from Chengdu on Sichuan Airlines 3U3827."
+  },
+  {
+    "id": "day17-booking-2",
+    "section_id": "day17",
+    "booking_type": "flight",
+    "event_date": "2026-04-19",
+    "title": "Ayoub Flight - IST to RAK",
+    "time": "12:25 from IST / 15:40 at RAK",
+    "pnr": "WBUFWH",
+    "ticket_number": "235-2295361962",
+    "note": "Turkish Airlines TK619 direct to Marrakech."
+  },
+  {
+    "id": "day17-booking-3",
+    "section_id": "day17",
+    "booking_type": "flight",
+    "event_date": "2026-04-19",
+    "title": "Ruggero Flight - IST to MXP",
+    "time": "15:45 from IST / 20:05 at MXP",
+    "pnr": "LDIDTX",
+    "ticket_number": "115-6327181961",
+    "note": "Air Serbia JU423 via Belgrade to Milan Malpensa."
   }
 ]
