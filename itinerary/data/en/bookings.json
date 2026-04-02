@@ -372,5 +372,143 @@
     "booking_reference": "GYGBLHRG5WQM",
     "pin_code": "H3Lpu9Sr",
     "note": "GetYourGuide booking with Go Thailand Adventures Tour. Wait in the hotel lobby for pickup."
+  },
+  {
+    "id": "day12-booking-1",
+    "section_id": "day12",
+    "booking_type": "hotel",
+    "event_date": "2026-04-14",
+    "overview_hotel_action": "checkout",
+    "show_in_daily_overview": false,
+    "title": "Courtyard by Marriott Phuket Checkout",
+    "location": "Patong Beach, Phuket",
+    "time": "By 12:00 on Apr 14",
+    "confirmation_number": "73409985839683",
+    "note": "Check out before heading to the pier for Krabi."
+  },
+  {
+    "id": "day12-booking-2",
+    "section_id": "day12",
+    "booking_type": "hotel",
+    "event_date": "2026-04-14",
+    "overview_hotel_action": "checkin",
+    "title": "Phu Pha Aonang Resort & Spa Check-in",
+    "location": "Ao Nang, Krabi",
+    "time": "From 14:00",
+    "confirmation_number": "5852.139.305",
+    "pin_code": "4235",
+    "note": "Krabi base through Apr 16."
+  },
+  {
+    "id": "day14-booking-1",
+    "section_id": "day14",
+    "booking_type": "hotel",
+    "event_date": "2026-04-16",
+    "overview_hotel_action": "checkout",
+    "show_in_daily_overview": false,
+    "title": "Phu Pha Aonang Resort & Spa Checkout",
+    "location": "Ao Nang, Krabi",
+    "time": "By 12:00 on Apr 16",
+    "confirmation_number": "5852.139.305",
+    "pin_code": "4235",
+    "note": "Check out and leave luggage at reception before the evening flight."
+  },
+  {
+    "id": "day14-booking-2",
+    "section_id": "day14",
+    "booking_type": "flight",
+    "event_date": "2026-04-16",
+    "title": "Thai AirAsia FD3218 (KBV to DMK)",
+    "time": "20:45 from KBV / 22:15 at DMK",
+    "pnr": "LY692P",
+    "order_number": "755642250",
+    "note": "Evening flight back to Bangkok Don Mueang."
+  },
+  {
+    "id": "day14-booking-3",
+    "section_id": "day14",
+    "booking_type": "hotel",
+    "event_date": "2026-04-16",
+    "overview_hotel_action": "checkin",
+    "show_in_daily_overview": false,
+    "title": "Amara Bangkok Hotel Check-in",
+    "location": "Bang Rak, Bangkok",
+    "time": "Late night check-in",
+    "confirmation_number": "5184.016.480",
+    "pin_code": "4757",
+    "note": "Final base in Bangkok."
+  },
+  {
+    "id": "day15-booking-1",
+    "section_id": "day15",
+    "booking_type": "hotel",
+    "event_date": "2026-04-17",
+    "overview_hotel_action": "checkout",
+    "title": "Amara Bangkok Hotel Checkout",
+    "location": "Bang Rak, Bangkok",
+    "time": "By 12:00 on Apr 17",
+    "confirmation_number": "5184.016.480",
+    "pin_code": "4757",
+    "note": "Leave luggage with the concierge until the evening departure."
+  },
+  {
+    "id": "day15-booking-2",
+    "section_id": "day15",
+    "booking_type": "flight",
+    "event_date": "2026-04-17",
+    "title": "Sichuan Airlines 3U3938 Departure",
+    "time": "Sat, Apr 18 - 01:10 (Depart for Airport late Apr 17)",
+    "pnr": "MJSJCD",
+    "ticket_numbers": [
+      "876-5017103415",
+      "876-5017103414"
+    ],
+    "note": "Overnight flight to Chengdu. Be at Suvarnabhumi Airport (BKK) around 22:00."
+  },
+  {
+    "id": "day16-booking-1",
+    "section_id": "day16",
+    "booking_type": "flight",
+    "event_date": "2026-04-18",
+    "title": "Sichuan Airlines (BKK -> TFU -> IST)",
+    "time": "Arrive TFU around 05:30 / Depart TFU on 3U3827 late night",
+    "pnr": "MJSJCD",
+    "ticket_numbers": [
+      "876-5017103415",
+      "876-5017103414"
+    ],
+    "note": "Chengdu layover. Follow the 24/144-Hour Transit Exemption process."
+  },
+  {
+    "id": "day17-booking-1",
+    "section_id": "day17",
+    "booking_type": "flight",
+    "event_date": "2026-04-19",
+    "title": "Arrival in Istanbul (IST)",
+    "time": "06:30 at IST",
+    "pnr": "MJSJCD",
+    "note": "Arrival from Chengdu on Sichuan Airlines 3U3827."
+  },
+  {
+    "id": "day17-booking-2",
+    "section_id": "day17",
+    "booking_type": "flight",
+    "event_date": "2026-04-19",
+    "title": "Ayoub Flight - IST to RAK",
+    "time": "12:25 from IST / 15:40 at RAK",
+    "pnr": "WBUFWH",
+    "ticket_number": "235-2295361962",
+    "note": "Turkish Airlines TK619 direct to Marrakech."
+  },
+  {
+    "id": "day17-booking-3",
+    "section_id": "day17",
+    "booking_type": "flight",
+    "event_date": "2026-04-19",
+    "title": "Ruggero Flight - IST to MXP",
+    "time": "15:45 from IST / 20:05 at MXP",
+    "pnr": "LDIDTX",
+    "ticket_number": "115-6327181961",
+    "note": "Air Serbia JU423 via Belgrade to Milan Malpensa."
   }
 ]

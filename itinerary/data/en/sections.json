@@ -2,7 +2,7 @@
   {
     "id": "chapter1",
     "type": "chapter",
-    "title": "Turkey — Istanbul",
+    "title": "Turkey \u2014 Istanbul",
     "children": [
       "intro",
       "day1",
@@ -53,7 +53,7 @@
   {
     "id": "chapter2",
     "type": "chapter",
-    "title": "Thailand — Bangkok",
+    "title": "Thailand \u2014 Bangkok",
     "children": [
       "intro-bkk",
       "day3",
@@ -131,7 +131,7 @@
   {
     "id": "chapter3",
     "type": "chapter",
-    "title": "Thailand — Chiang Mai",
+    "title": "Thailand \u2014 Chiang Mai",
     "label": "Chapter 3",
     "children": [
       "intro-cnx",
@@ -179,13 +179,16 @@
   {
     "id": "chapter4",
     "type": "chapter",
-    "title": "Thailand — The South",
+    "title": "Thailand \u2014 The South",
     "label": "Chapter 4",
     "children": [
       "intro-south",
       "day9",
       "day10",
-      "day11"
+      "day11",
+      "day12",
+      "day13",
+      "day14"
     ]
   },
   {
@@ -236,6 +239,127 @@
       "itinerary",
       "context",
       "activities"
+    ]
+  },
+  {
+    "id": "day12",
+    "type": "day",
+    "date": "2026-04-14",
+    "label": "Day 12",
+    "date_label": "Tuesday, April 14th",
+    "title": "Speedboat to Krabi and the Railay Sunset",
+    "tabs": [
+      "itinerary",
+      "context",
+      "activities",
+      "bookings"
+    ]
+  },
+  {
+    "id": "day13",
+    "type": "day",
+    "date": "2026-04-15",
+    "label": "Day 13",
+    "date_label": "Wednesday, April 15th",
+    "title": "Private Islands, Sunsets, and Sea of Stars",
+    "tabs": [
+      "itinerary",
+      "context",
+      "activities",
+      "bookings"
+    ]
+  },
+  {
+    "id": "day14",
+    "type": "day",
+    "date": "2026-04-16",
+    "label": "Day 14",
+    "date_label": "Thursday, April 16th",
+    "title": "The Tiger Cave Climb and Return to the Capital",
+    "tabs": [
+      "itinerary",
+      "context",
+      "activities",
+      "bookings"
+    ]
+  },
+  {
+    "id": "chapter5",
+    "type": "chapter",
+    "title": "Thailand \u2014 Return to Bangkok",
+    "label": "Chapter 5",
+    "children": [
+      "day15"
+    ]
+  },
+  {
+    "id": "day15",
+    "type": "day",
+    "date": "2026-04-17",
+    "label": "Day 15",
+    "date_label": "Friday, April 17th",
+    "title": "Rooftops, Contrasts, and the Final Goodbye",
+    "tabs": [
+      "itinerary",
+      "context",
+      "activities",
+      "bookings"
+    ]
+  },
+  {
+    "id": "chapter6",
+    "type": "chapter",
+    "title": "China \u2014 The Chengdu Layover",
+    "label": "Chapter 6",
+    "children": [
+      "intro-chengdu",
+      "day16"
+    ]
+  },
+  {
+    "id": "intro-chengdu",
+    "type": "intro",
+    "label": "Chengdu Intro",
+    "tabs": [
+      "context",
+      "bookings"
+    ]
+  },
+  {
+    "id": "day16",
+    "type": "day",
+    "date": "2026-04-18",
+    "label": "Day 16",
+    "date_label": "Saturday, April 18th",
+    "title": "Pandas, Ancient Alleys, and Teahouses",
+    "tabs": [
+      "itinerary",
+      "context",
+      "activities",
+      "bookings"
+    ]
+  },
+  {
+    "id": "chapter7",
+    "type": "chapter",
+    "title": "The Journey Home",
+    "label": "Chapter 7",
+    "children": [
+      "day17"
+    ]
+  },
+  {
+    "id": "day17",
+    "type": "day",
+    "date": "2026-04-19",
+    "label": "Day 17",
+    "date_label": "Sunday, April 19th",
+    "title": "Istanbul Layover and Parting Ways",
+    "tabs": [
+      "itinerary",
+      "context",
+      "activities",
+      "bookings"
     ]
   }
 ]
